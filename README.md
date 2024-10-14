@@ -15,7 +15,8 @@ JoyBot (Python)
   - A fishing command
   - A "who is most likely to" question command
   - A channel slowmode adjustment command
-- JoyBot is hosted on my Raspberry Pi, and is currently used actively in a private server of nearly 50 members
+- JoyBot is hosted on my Raspberry Pi, and is currently used actively in a private server of nearly 50 members with frequent updates
+- JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
 SafeBot (Python)
 - SafeBot was my first attempt to make a multipurpose slash-command based Discord bot, and is far more advanced than JoyBot, with many features such as:
@@ -29,4 +30,5 @@ SafeBot (Python)
     - Searches Spotify's API for a term and provides details about the top result
   - Moderation commands
     - Mute, unmute, and slowmode control commands
-  - SafeBot is still being developed, and will be hosted on my Raspberry Pi for use in a public Discord server
+- SafeBot is still being developed, and will be hosted on my Raspberry Pi for use in my public Discord server
+- JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
