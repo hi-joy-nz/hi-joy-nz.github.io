@@ -1,16 +1,32 @@
-## Hi there 👋
+## About me!
 
-<!--
-**hi-joy-nz/hi-joy-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact & about me
+- My [Discord](https://discord.com/users/524064761525305344)
+- My Discord server (coming soon)
+- My [Pronouns.page](https://en.pronouns.page/@hi.joy)
 
-Here are some ideas to get you started:
+### Projects
+JoyBot (Python)
+- JoyBot was my first real Discord bot with many fun features, such as:
+  - Legacy text-based commands
+  - A spawn and collection system, where users spawn and collect a variety of over 200 unique spawns 
+  - A truth or dare game
+  - A fun fact command
+  - A fishing command
+  - A "who is most likely to" question command
+  - A channel slowmode adjustment command
+- JoyBot is hosted on my Raspberry Pi, and is currently used actively in a private server of nearly 50 members
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SafeBot (Python)
+- SafeBot was my first attempt to make a multipurpose slash-command based Discord bot, and is far more advanced than JoyBot, with many features such as:
+  - A currency system
+    - Users can earn and spend a currency from a balance stored locally
+  - A complete ticketing system
+    - Users can create a private channel with staff, and are able to add extra users into the ticket
+  - A user details command
+    - Gets and sends data about a user from the Discord API
+  - A Spotify search command
+    - Searches Spotify's API for a term and provides details about the top result
+  - Moderation commands
+    - Mute, unmute, and slowmode control commands
+  - SafeBot is still being developed, and will be hosted on my Raspberry Pi for use in a public Discord server
