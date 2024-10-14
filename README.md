@@ -31,4 +31,4 @@ SafeBot (Python)
   - Moderation commands
     - Mute, unmute, and slowmode control commands
 - SafeBot is still being developed, and will be hosted on my Raspberry Pi for use in my public Discord server
-- JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
+- SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
