@@ -7,7 +7,7 @@
 
 ### Projects
 JoyBot (Python)
-- JoyBot was my first real Discord bot with many fun features, such as:
+- JoyBot was my first large Discord bot, containing:
   - Legacy text-based commands
   - A spawn and collection system, where users spawn and collect a variety of over 200 unique spawns 
   - A truth or dare game
@@ -19,9 +19,12 @@ JoyBot (Python)
 - JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
 SafeBot (Python)
-- SafeBot was my first attempt to make a multipurpose slash-command based Discord bot, and is far more advanced than JoyBot, with many features such as:
+- SafeBot was my first attempt to make a multipurpose slash-command based Discord bot, and is far more advanced than JoyBot, containing:
+  - A complete slash-command and embed system
+  - Error handling for all commands with developer logs for issues
   - A currency system
-    - Users can earn and spend a currency from a balance stored locally
+    - Users can earn and spend a currency from a balance stored in an external file
+    - (Work in progress) Complete store and purchasing system with real-time store updates, with all store information stored in an external JSON file
   - A complete ticketing system
     - Users can create a private channel with staff, and are able to add extra users into the ticket
   - A user details command
