@@ -1,8 +1,8 @@
 ## Table of contents
-[Contact & about me](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#contact--about-me) <br>
-[Projects](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#projects) <br>
-- [JoyBot (Python)](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#joybot-python)
-- [SafeBot (Python)](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#safebot-python)
+- [Contact & about me](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#contact--about-me)
+- [Projects](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#projects)
+  - [JoyBot (Python)](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#joybot-python)
+  - [SafeBot (Python)](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#safebot-python)
 
 
 ## Contact & about me
