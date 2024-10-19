@@ -1,12 +1,10 @@
-## About me!
-
-### Contact & about me
+## Contact & about me
 - My [Discord](https://discord.com/users/524064761525305344)
 - My Discord server (coming soon)
 - My [Pronouns.page](https://en.pronouns.page/@hi.joy)
 
-### Projects
-JoyBot (Python)
+## Projects
+### JoyBot (Python)
 - JoyBot was my first large Discord bot, containing:
   - Legacy text-based commands
   - A spawn and collection system, where users spawn and collect a variety of over 200 unique spawns 
@@ -18,7 +16,7 @@ JoyBot (Python)
 - JoyBot is hosted on my Raspberry Pi, and is currently used actively in a private server of nearly 50 members with frequent updates
 - JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-SafeBot (Python)
+### SafeBot (Python)
 - SafeBot was my first attempt to make a multipurpose slash-command based Discord bot, and is far more advanced than JoyBot, containing:
   - A complete slash-command and embed system
   - Error handling for all commands with developer logs for issues
