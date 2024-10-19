@@ -1,3 +1,7 @@
+## Table of contents
+[Contact & about me]https://github.com/hi-joy-nz)
+
+
 ## Contact & about me
 - My [Discord](https://discord.com/users/524064761525305344)
 - My Discord server (coming soon)
