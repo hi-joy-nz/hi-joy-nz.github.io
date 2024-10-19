@@ -9,7 +9,7 @@
 - My [Discord](https://discord.com/users/524064761525305344)
 - My Discord server (coming soon)
 - My [Pronouns.page](https://en.pronouns.page/@hi.joy)
--# [Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)
+<sub><sup>[Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)</sub></sup>
 
 ## Projects
 ### JoyBot (Python)
