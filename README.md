@@ -36,7 +36,9 @@
     ![Daily command](https://cdn.discordapp.com/attachments/1220996839252430911/1297327283450806365/image.png?ex=671585af&is=6714342f&hm=66d470235c4435575b98f125190b303853100c4286ff2ca088cf6b7738182f9d&)
   - A complete ticketing system
     - Users can create a private channel with staff, and are able to add extra users into the ticket <br>
-    ![Open ticket button](https://cdn.discordapp.com/attachments/1220996839252430911/1297326157846544404/image.png?ex=671584a3&is=67143323&hm=d375941856cd19e75a55cc8e7aeaf5e1de00ced222a233ef13e90ea6a5a91c1c&)
+    ![Open ticket button](https://cdn.discordapp.com/attachments/1220996839252430911/1297326157846544404/image.png?ex=671584a3&is=67143323&hm=d375941856cd19e75a55cc8e7aeaf5e1de00ced222a233ef13e90ea6a5a91c1c&)<br>
+    ![Opened ticket](https://cdn.discordapp.com/attachments/1220996839252430911/1297329924171894814/image.png?ex=67158825&is=671436a5&hm=a1941a9de4e975642a341067463ed244b9db1913a68ca845deb4c83288124962&)<br>
+    ![Close ticket confirmation](https://cdn.discordapp.com/attachments/1220996839252430911/1297329979163676762/image.png?ex=67158832&is=671436b2&hm=1628ba16ba390f52cf81e99817a93bc372a5d4dfd7e4ab49f49d1b8a763caed9&)
   - An about user command
     - Gets and displays data about a provided user from the Discord API
     ![About command](https://cdn.discordapp.com/attachments/1220996839252430911/1297326703722627072/image.png?ex=67158525&is=671433a5&hm=9a216dd4f2fb53e05ec1e96b45afd281bad45a11f3e9d56397517e2cea591924&)
