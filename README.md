@@ -15,13 +15,11 @@
 - JoyBot was my first large Discord bot, containing:
   - Legacy text-based commands
   - A spawn and collection system, where users spawn and collect a variety of over 200 unique spawns <br>
-  ![Detailed collection command](https://cdn.discordapp.com/attachments/1220996839252430911/1297323656841531495/image.png?ex=6715824e&is=671430ce&hm=4cffd56cc1fa6e539a959452dceae5b4b50801c6d31bcd55750a1107249bd4d6&)
   - A truth or dare game
   - A fun fact command
   - A fishing command
   - A "who is most likely to" question command
   - A channel slowmode adjustment command <br>
-  ![Slowmode change command](https://cdn.discordapp.com/attachments/1220996839252430911/1297325126584500315/image.png?ex=671583ad&is=6714322d&hm=5d7bacd7bcff744fe9287b1c5e1ef4dc9a12bc4783850989352a17e04c9ef92b&)
 - JoyBot is hosted on my Raspberry Pi, and is currently used actively in a private server of nearly 50 members with frequent updates
 - JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
@@ -32,19 +30,15 @@
   - A currency system
     - Users can earn and spend a currency from a balance stored in an external file
     - (Work in progress) Store and purchasing system with real-time store updates, with all store information managed with an external JSON file <br>
-    ![Balance command](https://cdn.discordapp.com/attachments/1220996839252430911/1297325919345574040/image.png?ex=6715846a&is=671432ea&hm=45711b131c568a4a03cfb9c7893383c4dcd78bf6f326c4954c8a067e2762f2e2&) <br>
-    ![Daily command](https://cdn.discordapp.com/attachments/1220996839252430911/1297327283450806365/image.png?ex=671585af&is=6714342f&hm=66d470235c4435575b98f125190b303853100c4286ff2ca088cf6b7738182f9d&)
   - A complete ticketing system
     - Users can create a private channel with staff, and are able to add extra users into the ticket <br>
-    ![Open ticket button](https://cdn.discordapp.com/attachments/1220996839252430911/1297326157846544404/image.png?ex=671584a3&is=67143323&hm=d375941856cd19e75a55cc8e7aeaf5e1de00ced222a233ef13e90ea6a5a91c1c&)<br>
-    ![Opened ticket](https://cdn.discordapp.com/attachments/1220996839252430911/1297329924171894814/image.png?ex=67158825&is=671436a5&hm=a1941a9de4e975642a341067463ed244b9db1913a68ca845deb4c83288124962&)<br>
-    ![Close ticket confirmation](https://cdn.discordapp.com/attachments/1220996839252430911/1297329979163676762/image.png?ex=67158832&is=671436b2&hm=1628ba16ba390f52cf81e99817a93bc372a5d4dfd7e4ab49f49d1b8a763caed9&)
+  - Pokémon collecting game
+    - Every 2 minutes, users can spawn a random Pokémon
+      - Pokémon are spawned based on the area the user selected, and the rarity of the Pokémon
   - An about user command
     - Gets and displays data about a provided user from the Discord API
-    ![About command](https://cdn.discordapp.com/attachments/1220996839252430911/1297326703722627072/image.png?ex=67158525&is=671433a5&hm=9a216dd4f2fb53e05ec1e96b45afd281bad45a11f3e9d56397517e2cea591924&)
   - A Spotify search command
     - Searches Spotify's API for a term and provides details about the top result <br>
-    ![Spotify search command](https://media.discordapp.net/attachments/1220996839252430911/1297323033207509134/image.png?ex=671581ba&is=6714303a&hm=f0b4bfb7eff373ee7c21db58d7ca8c0fab82aa0bbe9b8fb211617a9b9ab447ca&)
   - Moderation commands
     - Mute, unmute, and slowmode control commands
 - Safebot's commands: Public
