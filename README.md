@@ -27,7 +27,9 @@
 - JoyBot is hosted on my Raspberry Pi, and is currently used actively in a private server of nearly 50 members with frequent updates
 - JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-- See [examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/JoyBot%20examples) of JoyBot being used
+See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/JoyBot%20examples) of JoyBot being used
+
+*[Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)*
 
 ### SafeBot (Python)
 - SafeBot is my first attempt to make a complete multipurpose slash command-based Discord bot, and is far more advanced than JoyBot, containing:
@@ -81,7 +83,7 @@
 - SafeBot is still being developed, and will be hosted on my Raspberry Pi for use in my public Discord server
 - SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-- - See [examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/SafeBot%20examples) of SafeBot being used
+See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/SafeBot%20examples) of SafeBot being used
 
 
-[Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)
+*[Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)*
