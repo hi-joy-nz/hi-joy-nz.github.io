@@ -48,7 +48,7 @@
   - `/about <user>` : Provides details about a Discord user from Discord's API
   - `/balance [user]` : View your balance or another user's balance
   - `/buy <itemID>` : (Work in progress) Purchases an item from the store and adds it to your inventory
-  - `/coinflip` : FLip a coin, it can land on heads or tails
+  - `/coinflip` : Flip a coin, it can land on heads or tails
   - `/daily` : Collect free points once every 24 hours
   - `/help` : Provides a list of commands and their uses
   - `/pokemon_collection` : (Work in progress) Displays a list of every Pokémon a user has caught
