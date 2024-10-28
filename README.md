@@ -15,8 +15,10 @@
 - JoyBot was my first large Discord bot, containing:
   - Legacy text-based commands
   - A spawn and collection system
-    - Users spawn and collect a variety of over 200 unique spawns
-    - Users can race to find 'Challenge Spawns' - a randomly selected spawn that 
+    - Users spawn and collect a variety of over 200 unique spawns <br>
+    ![Detailed collection command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/JoyBot%20examples/Detailed%20spawn%20collection.png)
+    - Users can race to find 'Challenge Spawns' - a randomly selected spawn that rewards users with 'Challenge Points' when found <br>
+    ![Challenge spawns and points](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/JoyBot%20examples/Challenge%20spawns%20and%20points.png)
   - A truth or dare game
   - A fun fact command
   - A fishing command
@@ -33,17 +35,21 @@
   - Error handling for all commands with developer logs for unexpected errors
   - A currency system
     - Users can earn and spend a currency from a balance stored in an external file
-    - (Work in progress) Store and purchasing system with real-time store updates, with all store information managed with an external JSON file 
+    - (Work in progress) Store and purchasing system with real-time store updates, with all store information managed with an external JSON file <br>
+  ![Balance command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Points%20balance.png)
   - A complete ticketing system
     - Users can create a private channel with staff, and are able to add extra users into the ticket
   - Pokémon collecting game
     - Every 2 minutes, users can spawn a random Pokémon
       - Pokémon are spawned based on the area the user selected, and the rarity of the Pokémon
-      - All Pokémon have a small chance to be [shiny](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon), which is influenced by their rarity; with rarer Pokémon having a higher chance to be shiny 
+      - All Pokémon have a small chance to be [shiny](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon), which is influenced by their rarity; with rarer Pokémon having a higher chance to be shiny <br>
+  ![Example encounter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20spawn%20(city).png)
   - An about user command
-    - Gets and displays data about a provided user from the Discord API
+    - Gets and displays data about a provided user from the Discord API <br>
+    ![About command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/About%20user.png)
   - A Spotify search command
-    - Searches Spotify's API for a term and provides details about the top result 
+    - Searches Spotify's API for a term and provides details about the top result <br>
+    ![Spotify search command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Spotify%20search.png)
   - Moderation commands
     - Mute, unmute, and slowmode control commands
 - Safebot's commands: Public
