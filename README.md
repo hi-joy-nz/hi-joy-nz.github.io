@@ -14,12 +14,14 @@
 ### JoyBot (Python)
 - JoyBot was my first large Discord bot, containing:
   - Legacy text-based commands
-  - A spawn and collection system, where users spawn and collect a variety of over 200 unique spawns <br>
+  - A spawn and collection system
+    - Users spawn and collect a variety of over 200 unique spawns
+    - Users can race to find 'Challenge Spawns' - a randomly selected spawn that 
   - A truth or dare game
   - A fun fact command
   - A fishing command
   - A "who is most likely to" question command
-  - A channel slowmode adjustment command <br>
+  - A channel slowmode adjustment command 
 - JoyBot is hosted on my Raspberry Pi, and is currently used actively in a private server of nearly 50 members with frequent updates
 - JoyBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
@@ -29,16 +31,17 @@
   - Error handling for all commands with developer logs for unexpected errors
   - A currency system
     - Users can earn and spend a currency from a balance stored in an external file
-    - (Work in progress) Store and purchasing system with real-time store updates, with all store information managed with an external JSON file <br>
+    - (Work in progress) Store and purchasing system with real-time store updates, with all store information managed with an external JSON file 
   - A complete ticketing system
-    - Users can create a private channel with staff, and are able to add extra users into the ticket <br>
+    - Users can create a private channel with staff, and are able to add extra users into the ticket
   - Pokémon collecting game
     - Every 2 minutes, users can spawn a random Pokémon
       - Pokémon are spawned based on the area the user selected, and the rarity of the Pokémon
+      - All Pokémon have a small chance to be [shiny](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon), which is influenced by their rarity; with rarer Pokémon having a higher chance to be shiny 
   - An about user command
     - Gets and displays data about a provided user from the Discord API
   - A Spotify search command
-    - Searches Spotify's API for a term and provides details about the top result <br>
+    - Searches Spotify's API for a term and provides details about the top result 
   - Moderation commands
     - Mute, unmute, and slowmode control commands
 - Safebot's commands: Public
@@ -48,6 +51,9 @@
   - `/coinflip` : FLip a coin, it can land on heads or tails
   - `/daily` : Collect free points once every 24 hours
   - `/help` : Provides a list of commands and their uses
+  - `/pokemon_collection` : (Work in progress) Displays a list of every Pokémon a user has caught
+  - `/pokemon_spawn <area>` : Spawns a random Pokémon from `area`'s spawn pool
+  - `/pokemon_spawns <area>` : Shows a list of all Pokémon that can be found in `area` and their rarity 
   - `/spotify_search <search>` : Searches the SPotify API for `search` and provides information about the top result
   - `/store` : (Work in progress) Displays the current store, with the ID, name, and price of each item
   - `/ticket_add <user>` : Adds `user` to the current ticket if not already in it
