@@ -83,6 +83,7 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
   - `/work` : Use this and wait 2 hours to claim extra free points
 - SafeBot's commands: Server moderation
   - `/mute <user> <length> <reason>` : Mutes `user` for `length` minutes with the reason `reason`
+  - `/set_slowmode <cooldown>` : Sets current channel's slowmode to `cooldown` seconds
   - `/staff_help` : Provides a list of moderation and management commands
   - `/starboard_info` : Provides details about the starboard feature
   - `/ticket_create_gui` : Sends the create ticket embed and button to the current channel
