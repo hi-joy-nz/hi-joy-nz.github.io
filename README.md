@@ -50,7 +50,8 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
     ![Collection](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20collection%20(page%201).png)
       - They can also apply certain filters <br>
       ![Collection with shiny filter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20collection%20(shiny).png)
-    - Users can view the Pokémon that spawn in a specified area, sorted by rarity
+    - Users can view the Pokémon that spawn in a specified area, sorted by rarity <br>
+    ![Spawns in volcano area](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20spawns%20(volcano).png)
     - Users can view details about a Pokémon they have caught <br>
     ![Info panel](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20info%20(1).png)
   - An about user command
