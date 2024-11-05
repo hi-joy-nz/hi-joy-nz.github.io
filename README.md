@@ -46,12 +46,21 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
       - Pokémon are spawned based on the area the user selected, and the rarity of the Pokémon
       - All Pokémon have a small chance to be [shiny](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon), which is influenced by their rarity; with rarer Pokémon having a higher chance to be shiny <br>
   ![Example encounter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20spawn%20(city).png)
+    - Users can view their collection <br>
+    ![Collection](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20collection%20(page%201).png)
+      - They can also apply certain filters <br>
+      ![Collection with shiny filter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20collection%20(shiny).png)
+    - Users can view the Pokémon that spawn in a specified area, sorted by rarity
+    - Users can view details about a Pokémon they have caught <br>
+    ![Info panel](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20info%20(1).png)
   - An about user command
     - Gets and displays data about a provided user from the Discord API <br>
     ![About command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/About%20user.png)
   - A Spotify search command
     - Searches Spotify's API for a term and provides details about the top result <br>
     ![Spotify search command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Spotify%20search.png)
+  - A random colour generator <br>
+  ![Random colour generator](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Random%20colour%20(1).png)
   - Moderation commands
     - Mute, unmute, and slowmode control commands
 - Safebot's commands: Public
@@ -61,9 +70,11 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
   - `/coinflip` : Flip a coin, it can land on heads or tails
   - `/daily` : Collect free points once every 24 hours
   - `/help` : Provides a list of commands and their uses
-  - `/pokemon_collection` : (Work in progress) Displays a list of every Pokémon a user has caught
+  - `/pokemon_collection` : Displays a list of every Pokémon a user has caught, and displays them in pages (20 per page)
+  - `/pokemon_info <number>` : Displays information about a Pokémon you have caught, where `number` is the Pokémon's Collection Number (number in your collection)
   - `/pokemon_spawn <area>` : Spawns a random Pokémon from `area`'s spawn pool
-  - `/pokemon_spawns <area>` : Shows a list of all Pokémon that can be found in `area` and their rarity 
+  - `/pokemon_spawns <area>` : Shows a list of all Pokémon that can be found in `area` and their rarity
+  - `/random_colour` : Generates a random colour, and provides both hex and RGB values
   - `/spotify_search <search>` : Searches the SPotify API for `search` and provides information about the top result
   - `/store` : (Work in progress) Displays the current store, with the ID, name, and price of each item
   - `/ticket_add <user>` : Adds `user` to the current ticket if not already in it
