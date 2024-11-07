@@ -6,36 +6,42 @@ Documentation for the SafeBot Discord Bot, a private Discord bot for the [Safe H
 SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), and is developed solo by [me](https://github.com/hi-joy-nz)
 
 # 📖 Table of contents
-- [Commands](https://hi-joy-nz.github.io//SafeBot/Docs#%EF%B8%8F-commands)
-  - [About](https://hi-joy-nz.github.io//SafeBot/Docs#about-user)
-  - [Balance](https://hi-joy-nz.github.io//SafeBot/Docs#points-balance)
-  - [Change points](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-a-user)
-  - [Change points (all)](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-all-users)
-  - [Coinflip](https://hi-joy-nz.github.io//SafeBot/Docs#coinflip)
-  - [Daily](https://hi-joy-nz.github.io//SafeBot/Docs#claim-daily-points)
-  - [Help](https://hi-joy-nz.github.io//SafeBot/Docs#help-command)
-  - [Mute](https://hi-joy-nz.github.io//SafeBot/Docs#mute-a-user)
-  - Pokemon
-    - [Collection](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-collection)
-    - [Info](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-information)
-    - [Spawn](https://hi-joy-nz.github.io//SafeBot/Docs#spawn-a-pokemon)
-    - [Spawns](https://hi-joy-nz.github.io//SafeBot/Docs#check-the-pokemon-that-spawn-in-an-area)
-  - [Random colour](https://hi-joy-nz.github.io//SafeBot/Docs#generate-a-random-colour)
-  - [Set bot status](https://hi-joy-nz.github.io//SafeBot/Docs#set-the-bots-status)
-  - [Set slowmode](https://hi-joy-nz.github.io//SafeBot/Docs#set-channel-slowmode)
-  - [Spotify search](https://hi-joy-nz.github.io//SafeBot/Docs#search-for-a-song-on-spotify)
-  - [Staff help](https://hi-joy-nz.github.io//SafeBot/Docs#staff-help-command)
-  - [Suggest](https://hi-joy-nz.github.io//SafeBot/Docs#suggest-a-feature)
-  - Tickets
-    - [Add](https://hi-joy-nz.github.io//SafeBot/Docs#add-a-user-to-a-ticket)
-    - [Close](https://hi-joy-nz.github.io//SafeBot/Docs#close-a-ticket)
-    - [Create GUI](https://hi-joy-nz.github.io//SafeBot/Docs#create-ticket-gui)
-    - [Remove](https://hi-joy-nz.github.io//SafeBot/Docs#ticket-remove)
-  - [Unmute](https://hi-joy-nz.github.io//SafeBot/Docs#unmute-a-user)
-  - [Work](https://hi-joy-nz.github.io//SafeBot/Docs#work-for-points)
-- [Features](https://hi-joy-nz.github.io//SafeBot/Docs#-features)
-  - [Starboard](https://hi-joy-nz.github.io//SafeBot/Docs#starboard)
-  - [Ticketing](https://hi-joy-nz.github.io//SafeBot/Docs#ticketing)
+### **[Commands](https://hi-joy-nz.github.io//SafeBot/Docs#%EF%B8%8F-commands)** <br>
+<ins>**General**</ins> <br>
+[Help](https://hi-joy-nz.github.io//SafeBot/Docs#help-command)<br>
+[Suggest](https://hi-joy-nz.github.io//SafeBot/Docs#suggest-a-feature)<br>
+**<ins>Fun</ins>** <br>
+[About](https://hi-joy-nz.github.io//SafeBot/Docs#about-user) <br>
+[Coinflip](https://hi-joy-nz.github.io//SafeBot/Docs#coinflip)<br>
+[Random colour](https://hi-joy-nz.github.io//SafeBot/Docs#generate-a-random-colour)<br>
+[Spotify search](https://hi-joy-nz.github.io//SafeBot/Docs#search-for-a-song-on-spotify)<br>
+**<ins>Points</ins>** <br>
+[Balance](https://hi-joy-nz.github.io//SafeBot/Docs#points-balance) <br>
+[Daily](https://hi-joy-nz.github.io//SafeBot/Docs#claim-daily-points)<br>
+[Work](https://hi-joy-nz.github.io//SafeBot/Docs#work-for-points)<br>
+**<ins>Pokemon</ins>** <br>
+[Pokemon collection](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-collection)<br>
+[Pokemon info](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-information)<br>
+[Pokemon spawn](https://hi-joy-nz.github.io//SafeBot/Docs#spawn-a-pokemon)<br>
+[Pokemon spawns](https://hi-joy-nz.github.io//SafeBot/Docs#check-the-pokemon-that-spawn-in-an-area)<br>
+**<ins>Tickets</ins>** <br>
+[Ticket add](https://hi-joy-nz.github.io//SafeBot/Docs#add-a-user-to-a-ticket)<br>
+[Ticket close](https://hi-joy-nz.github.io//SafeBot/Docs#close-a-ticket)<br>
+[Ticket create GUI](https://hi-joy-nz.github.io//SafeBot/Docs#create-ticket-gui)<br>
+[Ticket remove](https://hi-joy-nz.github.io//SafeBot/Docs#ticket-remove)<br>
+**<ins>Server moderation</ins>** <br>
+[Mute](https://hi-joy-nz.github.io//SafeBot/Docs#mute-a-user)<br>
+[Set slowmode](https://hi-joy-nz.github.io//SafeBot/Docs#set-channel-slowmode)<br>
+[Staff help](https://hi-joy-nz.github.io//SafeBot/Docs#staff-help-command)<br>
+[Unmute](https://hi-joy-nz.github.io//SafeBot/Docs#unmute-a-user)<br>
+**<ins>Bot management</ins>** <br>
+[Change points](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-a-user) <br>
+[Change points (all)](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-all-users) <br>
+[Set bot status](https://hi-joy-nz.github.io//SafeBot/Docs#set-the-bots-status)<br>
+
+### **[Features](https://hi-joy-nz.github.io//SafeBot/Docs#-features)**<br>
+[Starboard](https://hi-joy-nz.github.io//SafeBot/Docs#starboard)<br>
+[Ticketing](https://hi-joy-nz.github.io//SafeBot/Docs#ticketing)<br>
  
 # 🎛️ Commands
 
