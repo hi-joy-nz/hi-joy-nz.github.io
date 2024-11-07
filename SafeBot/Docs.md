@@ -48,7 +48,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:** <br>
-> user | The user to provide details about. Must be a user in the current server.
+user | The user to provide details about. Must be a user in the current server.
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
 
