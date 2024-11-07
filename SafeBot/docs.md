@@ -23,6 +23,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
   - [Set slowmode](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#set-channel-slowmode)
   - [Spotify search](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#search-for-a-song-on-spotify)
   - [Staff help](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#staff-help-command)
+  - [Suggest](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#suggest-a-feature)
   - Tickets
     - [Add](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#add-a-user-to-a-ticket)
     - [Close](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#close-a-ticket)
@@ -345,6 +346,19 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 > [!IMPORTANT]
 > While anyone can use this command, the commands listed require certain permissions
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Suggest a feature
+**Version added:** 1.0.0 <br>
+**Description:** Suggest a feature or change, or report a bug to the developer
+
+**Usage:** `/suggest` <br>
+**Permissions required:** None
+
+**Parameters:** None, but will open a model (form) that must be filled in
 
 *[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
