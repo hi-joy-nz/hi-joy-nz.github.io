@@ -1,5 +1,5 @@
 <link href="/SafeBot/style.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="SafeBot/icon.ico">
 
 ### **Contact me**
 Send me a message on [Discord](https://discord.com/users/524064761525305344) (`hi.joy`) <br>
