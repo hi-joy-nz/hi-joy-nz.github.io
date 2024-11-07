@@ -5,7 +5,7 @@
 # 📋 SafeBot Documentation
 Documentation for the SafeBot Discord Bot, a private Discord bot for the [Safe Haven Discord server](https://discord.gg/BcuRXcBasz)
 
-SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), and is developed solo by [me](https://github.com/hi-joy-nz)
+SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), and is developed solo by [hi.joy](https://hi-joy-nz.github.io/)
 
 # 📖 Table of contents
 ### **[Commands](https://hi-joy-nz.github.io//SafeBot/Docs#%EF%B8%8F-commands)** <br>
