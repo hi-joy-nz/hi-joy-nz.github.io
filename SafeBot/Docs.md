@@ -8,7 +8,7 @@ Documentation for the SafeBot Discord Bot, a private Discord bot for the [Safe H
 SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), and is developed solo by [hi.joy](https://hi-joy-nz.github.io/)
 
 # 📖 Table of contents
-### **[Commands](https://hi-joy-nz.github.io//SafeBot/Docs#%EF%B8%8F-commands)** <br>
+### **[Commands](https://hi-joy-nz.github.io//SafeBot/Docs#%EF%B8%8F-commands)**
 <ins>**General**</ins> <br>
 [Help](https://hi-joy-nz.github.io//SafeBot/Docs#help-command)<br>
 [Suggest](https://hi-joy-nz.github.io//SafeBot/Docs#suggest-a-feature)<br>
@@ -41,7 +41,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 [Change points (all)](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-all-users) <br>
 [Set bot status](https://hi-joy-nz.github.io//SafeBot/Docs#set-the-bots-status)<br>
 
-### **[Features](https://hi-joy-nz.github.io//SafeBot/Docs#-features)**<br>
+### **[Features](https://hi-joy-nz.github.io//SafeBot/Docs#-features)**
 [Starboard](https://hi-joy-nz.github.io//SafeBot/Docs#starboard)<br>
 [Ticketing](https://hi-joy-nz.github.io//SafeBot/Docs#ticketing)<br>
  
