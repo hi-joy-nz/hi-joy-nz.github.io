@@ -8,7 +8,7 @@
     margin-right: auto
 }
 
-*:link{
+*:link, *:visited{
     color: #4d97f1
 }
 
