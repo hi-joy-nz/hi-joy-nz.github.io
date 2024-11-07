@@ -8,6 +8,10 @@
     margin-right: auto
 }
 
+*:link{
+    color: #4d97f1
+}
+
 body {
     background-color: #2e2e2e;
     background-size: cover
