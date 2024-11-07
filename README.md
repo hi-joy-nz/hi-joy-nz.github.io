@@ -7,7 +7,6 @@
 
 ## Contact & about me
 - My [Discord](https://discord.com/users/524064761525305344)
-- My Discord server (coming soon)
 - My [Pronouns.page](https://en.pronouns.page/@hi.joy)
 
 ## Projects
@@ -32,7 +31,7 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
 *[Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)*
 
 ### SafeBot (Python)
-- SafeBot is my first attempt to make a complete multipurpose slash command-based Discord bot, and is far more advanced than JoyBot, containing:
+- SafeBot is my first attempt to make a complete multipurpose Discord bot that uses [slash-commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge), and is far more advanced than JoyBot, containing:
   - A complete slash command and embed system
   - Error handling for all commands with developer logs for unexpected errors
   - A currency system
@@ -68,7 +67,7 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
   - `/about <user>` : Provides details about a Discord user from Discord's API
   - `/balance [user]` : View your balance or another user's balance
   - `/buy <itemID>` : (Work in progress) Purchases an item from the store and adds it to your inventory
-  - `/coinflip` : Flip a coin, it can land on heads or tails
+  - `/coinflip` : Flip a coin, it can land on heads or tails 
   - `/daily` : Collect free points once every 24 hours
   - `/help` : Provides a list of commands and their uses
   - `/pokemon_collection` : Displays a list of every Pokémon a user has caught, and displays them in pages (20 per page)
