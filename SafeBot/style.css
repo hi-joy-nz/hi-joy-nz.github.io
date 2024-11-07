@@ -12,3 +12,8 @@ body {
     background-color: #2e2e2e;
     background-size: cover
 }
+
+th, td{
+    background-color: #2e2e2e;
+    color: #eeeeee
+}
