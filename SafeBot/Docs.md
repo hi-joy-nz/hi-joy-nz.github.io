@@ -56,13 +56,15 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:** <br>
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 30%">
+
 | Name | Description |
 | ------ | ------ |
 | user | The user to provide details about. Must be a user in the current server.| 
-</div>
+
+<table style="margin-left: auto; margin-right: auto; width: 30%;">
+  <tr>  <th>Name</th>  <th>Description</th>
+  <tr>  <td>user</td>  <td>The user to provide details about. Must be a user in the current server.</td>
+</table>
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
