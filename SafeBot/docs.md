@@ -20,14 +20,14 @@
   - [Random colour](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#generate-a-random-colour)
   - [Set bot status](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#set-the-bots-status)
   - [Set slowmode](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#set-channel-slowmode)
-  - [Spotify search]()
-  - [Staff help]()
+  - [Spotify search](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#search-for-a-song-on-spotify)
+  - [Staff help](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#staff-help-command)
   - Tickets
-    - [Add]()
-    - [Close]()
-    - [Create GUI]()
-    - [Remove]()
-  - [Unmute]()
+    - [Add](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#add-a-user-to-a-ticket)
+    - [Close](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#close-a-ticket)
+    - [Create GUI](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#create-ticket-gui)
+    - [Remove](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#ticket-remove)
+  - [Unmute](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#unmute-a-user)
 - [Features]()
   - [Starboard]()
   - [Ticketing]()
@@ -439,19 +439,25 @@
 *[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
+# ⭐ features
+
+## Starboard
+
+**Version added:** 1.0.0 <br>
+**Description:** When a message recieves three or more ⭐ reactions, it will be sent to the starboard channel
+
+**Usage:** React to a cool message with the ⭐ emoji, once 3 people react with that, it will be sent to the starboard! <br>
+**Permissions required:** Add reactions
+
+> [!IMPORTANT]
+> If the bot goes offline for any reason, any messages sent before the bot comes back online that reach 3 ⭐ reactions <ins>will not</ins> be starboarded. This is because the messages are not in the bot's cache, and as such are essentially invisible to it. If this happens, please ask server staff to send the message manually to the staboard channel.
 
 
 
+## Ticketing
 
+**Version added:** 1.0.0
+**Description:** Users can open a private channel with staff to discuss issues or questions.
 
-
-
-
-
-
-
-
-
-
-
-
+**Usage:** Users simply click the 'open ticket' button in the designated ticket support channel. They will then get a private channel to talk to staff through. <br>
+**Permissions:** None
