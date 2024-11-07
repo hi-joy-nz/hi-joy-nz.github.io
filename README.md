@@ -32,7 +32,7 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
 
 ### SafeBot (Python)
 
-**[Read SafeBot's documentation]([https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#pokemon-collection))**
+**[Read SafeBot's documentation](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation)**
 - SafeBot is my first attempt to make a complete multipurpose Discord bot that uses [slash-commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge), and is far more advanced than JoyBot, containing:
   - A complete slash command and embed system
   - Error handling for all commands with developer logs for unexpected errors
