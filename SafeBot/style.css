@@ -3,10 +3,12 @@
     align-items: center;
     list-style-position: inside;
     color: #eeeeee;
-    background-color: #2e2e2e;
-    background-size: cover;
-    background-position: center top;
     align-content: center;
     margin-left: auto;
     margin-right: auto
+}
+
+body {
+    background-color: #2e2e2e;
+    background-size: cover
 }

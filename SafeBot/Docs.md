@@ -431,14 +431,10 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** <br>
 
-<center>
-
 | Name | Description |
 | ------ | ------ |
 | **user** | User to be unmuted. Must be a member of the server that is currently muted |
 | **reason** | Reason for unmuting the user |
-
-</center>
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
