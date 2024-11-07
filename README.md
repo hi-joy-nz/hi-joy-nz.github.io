@@ -31,6 +31,8 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
 *[Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)*
 
 ### SafeBot (Python)
+
+**[Read SafeBot's documentation](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md)**
 - SafeBot is my first attempt to make a complete multipurpose Discord bot that uses [slash-commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge), and is far more advanced than JoyBot, containing:
   - A complete slash command and embed system
   - Error handling for all commands with developer logs for unexpected errors
