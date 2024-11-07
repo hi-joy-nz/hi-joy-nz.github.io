@@ -1,8 +1,8 @@
 * {
-    background-color: #2e2e2e;
     text-align: center;
     align-items: center;
     list-style-position: inside;
-    color: #eeeeee
+    color: #eeeeee;
+    background-color: #2e2e2e;
+    background-size: 100%;
 }
-
