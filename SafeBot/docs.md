@@ -43,7 +43,9 @@
 **Permissions required:** None
 
 **Parameters:**
-> **user** | The user to provide details about. Must be a user in the current server.
+```
+user | The user to provide details about. Must be a user in the current server.
+```
 
 > [!NOTE]
 > No personal information is provided, only information that is avaliable though either Discord's API or the user's profile page.
