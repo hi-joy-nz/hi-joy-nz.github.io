@@ -48,7 +48,7 @@
 > [!NOTE]
 > No personal information is provided, only information that is avaliable though either Discord's API or the user's profile page.
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 ## Points balance
@@ -64,7 +64,7 @@
 > [!TIP]
 > Leaving the `user` field empty will show the command user's balance.
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -80,7 +80,7 @@
 
 > **change** | The amount of points to change `user`'s balance by. Must be an integer, can be positive or negative.
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -94,7 +94,7 @@
 **Parameters:**
 > **change** | The amount of points to change all balances by. Must be an integer, can be positive or negative.
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -107,7 +107,7 @@
 
 **Parameters:** None
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -123,7 +123,7 @@
 > [!TIP]
 > Set a reminder for every 24 hours to maximise your points!
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -136,11 +136,14 @@
 
 **Parameters:** None
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
 ## Mute a user
+> [!NOTE]
+> This command works together with the [unmute command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#unmute-a-user)
+
 **Version added:** 1.0.0 <br>
 **Description:** Mute a user for a set period of time.
 
@@ -157,7 +160,7 @@
 > [!NOTE]
 > If the user is already muted, this won't work!
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -175,7 +178,7 @@
 > [!TIP]
 > The buttons bellow your collection let you navigate between pages. The ⏩ button skips to the last page and the ⏪ button skips to the first page, use these to make searching your collection faster!
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -192,7 +195,7 @@
 > [!IMPORTANT]
 > Ensure you are using the number displayed next to the Pokemon in your collection (`/pokemon_collection`) and <ins>not</ins> the Pokemon's Pokedex number, as it will not work as intended.
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -227,7 +230,7 @@
 > [!TIP]
 > Use `/pokemon_spawns` before spawning so that you can find your favourite Pokemon!
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -259,7 +262,7 @@
 > ⠀⠀⠀⠀ **• Galactic Edge** <br>
 > ⠀⠀⠀⠀ **• Event**
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -291,7 +294,7 @@
 > [!NOTE]
 > Due to how Discord handles the status of bots, they are limited to these options.
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -308,21 +311,132 @@
 > [!TIP]
 > This isn't limited to Discord's channel setting options! You can use this to set the slowmode to anywhere from 1-21600 seconds! (Max 6 hours)
 
-*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
-## Command
+## Search for a song on Spotify
 **Version added:** 1.0.0 <br>
-**Description:** 
+**Description:** Searches Spotify fro a prompt and returns the top song
 
-**Usage:** `/` <br>
-**Permissions required:** 
+**Usage:** `/spotify_search` <br>
+**Permissions required:** None
 
 **Parameters:**
-> **a** | z
+> **search** | Search spotify for this term
 
-> **b** | y
+> [!NOTE]
+> This will only return the top <ins>song</ins> - albums, artists, etc. will not be returned.
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Staff help command
+**Version added:** 1.0.0 <br>
+**Description:** Display a list of commands for server staff and bot admins
+
+**Usage:** `/staff_help` <br>
+**Permissions required:** None
+
+**Parameters:** None
+
+> [!IMPORTANT]
+> While anyone can use this command, the commands listed require certain permissions
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Add a user to a ticket
+**Version added:** 1.0.0 <br>
+**Description:** Adds a user to the current ticket
+
+**Usage:** `/ticket_add <user>` <br>
+**Permissions required:** None, but must be in a ticket
+
+**Parameters:**
+> **user** | The user to add to the current ticket. Must be a user that is in the server but not already in the current ticket
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Close a ticket
+**Version added:** 1.0.0 <br>
+**Description:** Close the currently open ticket.
+
+**Usage:** `/ticket_close` <br>
+**Permissions required:** None, but must be in a ticket
+
+**Parameters:** None
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Create ticket GUI
+**Version added:** 1.0.0 <br>
+**Description:** Send the 'open a ticket' GUI to the current channel.
+
+**Usage:** `/ticket_create_gui` <br>
+**Permissions required:** Manage Server
+
+**Parameters:** None
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Ticket remove
+**Version added:** 1.0.0 <br>
+**Description:** Remove a user from the current ticket.
+
+**Usage:** `/ticket_remove <user>` <br>
+**Permissions required:** Kick members, and must be in a ticket
+
+**Parameters:**
+> **user** | The user to remove from the current ticket. Must be a member in the server who is already in the ticket.
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Unmute a user
+> [!NOTE]
+> This command works together with the [mute command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#mute-a-user)
+
+**Version added:** 1.0.0 <br>
+**Description:** Unmute a muted user
+
+**Usage:** `/unmute <user> <reason>` <br>
+**Permissions required:** Mute members
+
+**Parameters:**
+> **user** | User to be unmuted. Must be a member of the server that is currently muted
+
+> **reason** | Reason for unmuting the user
+
+> [!NOTE]
+> If the user isn't muted, this won't work!
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
+## Work for points
+**Version added:** 1.0.0 <br>
+**Description:** Go to 'work', return in two hours to claim 80-120 points.
+
+**Usage:** `/work` <br>
+**Permissions required:** None
+
+**Parameters:** None
+
+> [!TIP]
+> If you use this more than three times in a day, you can earn more than you would with `/daily` every day!
+
+*[Return to Table of Contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
