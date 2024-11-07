@@ -29,9 +29,10 @@ SafeBot is build with [discord.py](https://discordpy.readthedocs.io/en/stable/),
     - [Create GUI](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#create-ticket-gui)
     - [Remove](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#ticket-remove)
   - [Unmute](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#unmute-a-user)
-- [Features]()
-  - [Starboard]()
-  - [Ticketing]()
+  - [Work](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#work-for-points)
+- [Features](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-features)
+  - [Starboard](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#starboard)
+  - [Ticketing](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#ticketing)
  
 # 🎛️ Commands
 
@@ -457,7 +458,7 @@ SafeBot is build with [discord.py](https://discordpy.readthedocs.io/en/stable/),
 
 ## Ticketing
 
-**Version added:** 1.0.0
+**Version added:** 1.0.0 <br>
 **Description:** Users can open a private channel with staff to discuss issues or questions.
 
 **Usage:** Users simply click the 'open ticket' button in the designated ticket support channel. They will then get a private channel to talk to staff through. <br>
