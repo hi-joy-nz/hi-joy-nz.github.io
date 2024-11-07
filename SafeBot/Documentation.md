@@ -48,9 +48,6 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Parameters:**
 > user | The user to provide details about. Must be a user in the current server.
 
-> [!NOTE]
-> No personal information is provided, only information that is avaliable though either Discord's API or the user's profile page.
-
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
 
@@ -62,10 +59,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None <br>
 
 **Parameters:**
-> **(Optional) user** | The user to display the balance of. Must be a user in the current server.
-
-> [!TIP]
-> Leaving the `user` field empty will show the command user's balance.
+**(Optional) user** | The user to display the balance of. Must be a user in the current server.
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -79,9 +73,9 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** Bot admin 
 
 **Parameters:**
-> **user** | The user to change the points balance of. Must be a user in the server.
+**user** | The user to change the points balance of. Must be a user in the server.
 
-> **change** | The amount of points to change `user`'s balance by. Must be an integer, can be positive or negative.
+**change** | The amount of points to change `user`'s balance by. Must be an integer, can be positive or negative.
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -95,7 +89,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** Bot admin
 
 **Parameters:**
-> **change** | The amount of points to change all balances by. Must be an integer, can be positive or negative.
+**change** | The amount of points to change all balances by. Must be an integer, can be positive or negative.
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -123,9 +117,6 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-> [!TIP]
-> Set a reminder for every 24 hours to maximise your points!
-
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
 
@@ -144,8 +135,6 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 
 ## Mute a user
-> [!NOTE]
-> This command works together with the [unmute command](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#unmute-a-user)
 
 **Version added:** 1.0.0 <br>
 **Description:** Mute a user for a set period of time.
@@ -154,14 +143,11 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** Mute members
 
 **Parameters:**
-> **user** | A user in the current server that is not already muted.
+**user** | A user in the current server that is not already muted.
 
-> **length** | Time in minutes the user should be muted for.
+**length** | Time in minutes the user should be muted for.
 
-> **reason** | The reason for muting the user.
-
-> [!NOTE]
-> If the user is already muted, this won't work!
+**reason** | The reason for muting the user.
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -175,11 +161,8 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:**
-> **(Optional) filter** | Filter your collection to display only Pokemon that meet certain criteria. Options: <br>
->⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀ **• Shiny** | Filter for shiny Pokemon
-
-> [!TIP]
-> The buttons bellow your collection let you navigate between pages. The ⏩ button skips to the last page and the ⏪ button skips to the first page, use these to make searching your collection faster!
+**(Optional) filter** | Filter your collection to display only Pokemon that meet certain criteria. Options: <br>
+**• Shiny** | Filter for shiny Pokemon
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -193,19 +176,13 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:**
-> **number** | Collection number of the Pokemon in your collection. Must be an integer within your collection.
-
-> [!IMPORTANT]
-> Ensure you are using the number displayed next to the Pokemon in your collection (`/pokemon_collection`) and <ins>not</ins> the Pokemon's Pokedex number, as it will not work as intended.
+**number** | Collection number of the Pokemon in your collection. Must be an integer within your collection.
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
 
 
 ## Spawn a Pokemon
-
-> [!WARNING]
-> This command is named very similarly to `/pokemon_spawns`, make sure you're looking at the right command!
 
 **Version added:** 1.0.0 <br>
 **Description:** Spawn a wild Pokemon in a certain area once every two minutes.
@@ -214,33 +191,27 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:**
-> **area** | The area in which you want to spawn a Pokemon. Each area has a different list of Pokemon that can spawn. Options: <br>
-> ⠀⠀⠀⠀ **• Farfetch'd Fields** <br>
-> ⠀⠀⠀⠀ **• Shaded Forest** <br>
-> ⠀⠀⠀⠀ **• Cliff's Cave** <br>
-> ⠀⠀⠀⠀ **• Danger Desert** <br>
-> ⠀⠀⠀⠀ **• Blue Beach** <br>
-> ⠀⠀⠀⠀ **• Blue Sea** <br>
-> ⠀⠀⠀⠀ **• Cloudy Sky** <br>
-> ⠀⠀⠀⠀ **• Mount Magma** <br>
-> ⠀⠀⠀⠀ **• Dark Gravestones** <br>
-> ⠀⠀⠀⠀ **• Science Lab** <br>
-> ⠀⠀⠀⠀ **• Myndflike City** <br>
-> ⠀⠀⠀⠀ **• Snowfield Forest** <br>
-> ⠀⠀⠀⠀ **• Galactic Edge** <br>
-> ⠀⠀⠀⠀ **• Event**
-
-> [!TIP]
-> Use `/pokemon_spawns` before spawning so that you can find your favourite Pokemon!
+**area** | The area in which you want to spawn a Pokemon. Each area has a different list of Pokemon that can spawn. Options: <br>
+**• Farfetch'd Fields** | Area 1 <br>
+**• Shaded Forest** | Area 2 <br>
+**• Cliff's Cave** | Area 3 <br>
+**• Danger Desert** | Area 4 <br>
+**• Blue Beach** | Area 5 <br>
+**• Blue Sea** | Area 6 <br>
+**• Cloudy Sky** | Area 7 <br>
+**• Mount Magma** | Area 8 <br>
+**• Dark Gravestones** | Area 9 <br>
+**• Science Lab** | Area 10 <br>
+**• Myndflike City**| Area 11 <br>
+**• Snowfield Forest**| Area 12 <br>
+**• Galactic Edge**| Area 13 <br>
+**• Event** | Area 14
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
 
 
 ## Check the Pokemon that spawn in an area
-
-> [!WARNING]
-> This command is named very similarly to `/pokemon_spawn`, make sure you're looking at the right command!
 
 **Version added:** 1.0.0 <br>
 **Description:** Display a list of Pokemon that spawn in an area sorted by rarity.
@@ -249,21 +220,21 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:**
-> **area** | The area in which you want to check what Pokemon spawn. Each area has a different list of Pokemon that can spawn. Options: <br>
-> ⠀⠀⠀⠀ **• Farfetch'd Fields** <br>
-> ⠀⠀⠀⠀ **• Shaded Forest** <br>
-> ⠀⠀⠀⠀ **• Cliff's Cave** <br>
-> ⠀⠀⠀⠀ **• Danger Desert** <br>
-> ⠀⠀⠀⠀ **• Blue Beach** <br>
-> ⠀⠀⠀⠀ **• Blue Sea** <br>
-> ⠀⠀⠀⠀ **• Cloudy Sky** <br>
-> ⠀⠀⠀⠀ **• Mount Magma** <br>
-> ⠀⠀⠀⠀ **• Dark Gravestones** <br>
-> ⠀⠀⠀⠀ **• Science Lab** <br>
-> ⠀⠀⠀⠀ **• Myndflike City** <br>
-> ⠀⠀⠀⠀ **• Snowfield Forest** <br>
-> ⠀⠀⠀⠀ **• Galactic Edge** <br>
-> ⠀⠀⠀⠀ **• Event**
+**area** | The area in which you want to check what Pokemon spawn. Each area has a different list of Pokemon that can spawn. Options: <br>
+**• Farfetch'd Fields** | Area 1 <br>
+**• Shaded Forest** | Area 2 <br>
+**• Cliff's Cave** | Area 3 <br>
+**• Danger Desert** | Area 4 <br>
+**• Blue Beach** | Area 5 <br>
+**• Blue Sea** | Area 6 <br>
+**• Cloudy Sky** | Area 7 <br>
+**• Mount Magma** | Area 8 <br>
+**• Dark Gravestones** | Area 9 <br>
+**• Science Lab** | Area 10 <br>
+**• Myndflike City**| Area 11 <br>
+**• Snowfield Forest**| Area 12 <br>
+**• Galactic Edge**| Area 13 <br>
+**• Event** | Area 14
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -287,15 +258,12 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** Bot admin
 
 **Parameters:**
-> **status_type** | The type of status. Options: <br>
-> ⠀⠀⠀⠀⠀⠀⠀⠀⠀ **• Listening to** | Set status to "Listening to \<text>" <br>
-> ⠀⠀⠀⠀⠀⠀⠀⠀⠀ **• Playing** | Set status to "Playing \<text>" <br>
-> ⠀⠀⠀⠀⠀⠀⠀⠀⠀ **• Watching** | Set status to "Wathcing \<text>"
+**status_type** | The type of status. Options: <br>
+**• Listening to** | Set status to "Listening to \<text>" <br>
+**• Playing** | Set status to "Playing \<text>" <br>
+**• Watching** | Set status to "Wathcing \<text>"
 
-> **text** | Text to show in status. Example: `Playing <text>`
-
-> [!NOTE]
-> Due to how Discord handles the status of bots, they are limited to these options.
+**text** | Text to show in status. Example: `Playing <text>`
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -309,10 +277,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** Manage messages
 
 **Parameters:**
-> **cooldown** | Time in seconds to set the channel's slowmode to
-
-> [!TIP]
-> This isn't limited to Discord's channel setting options! You can use this to set the slowmode to anywhere from 1-21600 seconds! (Max 6 hours)
+**cooldown** | Time in seconds to set the channel's slowmode to
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -326,10 +291,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:**
-> **search** | Search spotify for this term
-
-> [!NOTE]
-> This will only return the top <ins>song</ins> - albums, artists, etc. will not be returned.
+**search** | Search spotify for this term
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -343,9 +305,6 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None
 
 **Parameters:** None
-
-> [!IMPORTANT]
-> While anyone can use this command, the commands listed require certain permissions
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -372,7 +331,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** None, but must be in a ticket
 
 **Parameters:**
-> **user** | The user to add to the current ticket. Must be a user that is in the server but not already in the current ticket
+**user** | The user to add to the current ticket. Must be a user that is in the server but not already in the current ticket
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -412,15 +371,13 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** Kick members, and must be in a ticket
 
 **Parameters:**
-> **user** | The user to remove from the current ticket. Must be a member in the server who is already in the ticket.
+**user** | The user to remove from the current ticket. Must be a member in the server who is already in the ticket.
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
 
 
 ## Unmute a user
-> [!NOTE]
-> This command works together with the [mute command](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#mute-a-user)
 
 **Version added:** 1.0.0 <br>
 **Description:** Unmute a muted user
@@ -429,12 +386,9 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Permissions required:** Mute members
 
 **Parameters:**
-> **user** | User to be unmuted. Must be a member of the server that is currently muted
+**user** | User to be unmuted. Must be a member of the server that is currently muted
 
-> **reason** | Reason for unmuting the user
-
-> [!NOTE]
-> If the user isn't muted, this won't work!
+**reason** | Reason for unmuting the user
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
@@ -449,9 +403,6 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-> [!TIP]
-> If you use this more than three times in a day, you can earn more than you would with `/daily` every day!
-
 *[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Documentation#-table-of-contents)*
 
 
@@ -464,10 +415,6 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Usage:** React to a cool message with the ⭐ emoji, once 3 people react with that, it will be sent to the starboard! <br>
 **Permissions required:** Add reactions
-
-> [!IMPORTANT]
-> If the bot goes offline for any reason, any messages sent before the bot comes back online that reach 3 ⭐ reactions <ins>will not</ins> be starboarded. This is because the messages are not in the bot's cache, and as such are essentially invisible to it. If this happens, please ask server staff to send the message manually to the staboard channel.
-
 
 
 ## Ticketing
