@@ -3,34 +3,34 @@
 <br>
 
 # 📖 Table of contents
-- Commands
+- [Commands](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#%EF%B8%8F-commands)
   - [About](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#about-user)
   - [Balance](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#points-balance)
-  - Change points
-  - Change points (all)
-  - Coinflip
-  - Daily
-  - Help
-  - Mute
+  - [Change points](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#change-points-of-a-user)
+  - [Change points (all)](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#change-points-of-all-users)
+  - [Coinflip](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#coinflip)
+  - [Daily](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#claim-daily-points)
+  - [Help](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#help-command)
+  - [Mute](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#mute-a-user)
   - Pokemon
-    - Collection
-    - Info
-    - Spawn
-    - Spawns
-  - Random colour
-  - Set bot status
-  - Set slowmode
-  - Spotify search
-  - Staff help
+    - [Collection](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#pokemon-collection)
+    - [Info](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#pokemon-information)
+    - [Spawn](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#spawn-a-pokemon)
+    - [Spawns](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#check-the-pokemon-that-spawn-in-an-area)
+  - [Random colour](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#generate-a-random-colour)
+  - [Set bot status](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#set-the-bots-status)
+  - [Set slowmode](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#set-channel-slowmode)
+  - [Spotify search]()
+  - [Staff help]()
   - Tickets
-    - Add
-    - Close
-    - Create GUI
-    - Remove
-  - Unmute
-- Features
-  - Starboard
-  - Ticketing
+    - [Add]()
+    - [Close]()
+    - [Create GUI]()
+    - [Remove]()
+  - [Unmute]()
+- [Features]()
+  - [Starboard]()
+  - [Ticketing]()
  
 # 🎛️ Commands
 
@@ -43,12 +43,12 @@
 **Permissions required:** None
 
 **Parameters:**
-```
-user | The user to provide details about. Must be a user in the current server.
-```
+> user | The user to provide details about. Must be a user in the current server.
 
 > [!NOTE]
 > No personal information is provided, only information that is avaliable though either Discord's API or the user's profile page.
+
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 ## Points balance
@@ -64,6 +64,8 @@ user | The user to provide details about. Must be a user in the current server.
 > [!TIP]
 > Leaving the `user` field empty will show the command user's balance.
 
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
 
 
 ## Change points of a user
@@ -78,6 +80,8 @@ user | The user to provide details about. Must be a user in the current server.
 
 > **change** | The amount of points to change `user`'s balance by. Must be an integer, can be positive or negative.
 
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
 
 
 ## Change points of all users
@@ -90,6 +94,8 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:**
 > **change** | The amount of points to change all balances by. Must be an integer, can be positive or negative.
 
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
 
 
 ## Coinflip
@@ -100,6 +106,8 @@ user | The user to provide details about. Must be a user in the current server.
 **Permissions required:** None 
 
 **Parameters:** None
+
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -115,6 +123,8 @@ user | The user to provide details about. Must be a user in the current server.
 > [!TIP]
 > Set a reminder for every 24 hours to maximise your points!
 
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
 
 
 ## Help command
@@ -125,6 +135,8 @@ user | The user to provide details about. Must be a user in the current server.
 **Permissions required:** None
 
 **Parameters:** None
+
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -145,6 +157,10 @@ user | The user to provide details about. Must be a user in the current server.
 > [!NOTE]
 > If the user is already muted, this won't work!
 
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
+
+
 ## Pokemon collection
 **Version added:** 1.0.0 <br>
 **Description:** Displays your Pokemon collection.
@@ -153,11 +169,14 @@ user | The user to provide details about. Must be a user in the current server.
 **Permissions required:** None
 
 **Parameters:**
-> **filter** | Filter your collection display only Pokemon that meet certain criteria. Options: <br>
->⠀⠀⠀ ⠀ **• Shiny** | Filter for shiny Pokemon
+> **(Optional) filter** | Filter your collection to display only Pokemon that meet certain criteria. Options: <br>
+>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀ **• Shiny** | Filter for shiny Pokemon
 
 > [!TIP]
 > The buttons bellow your collection let you navigate between pages. The ⏩ button skips to the last page and the ⏪ button skips to the first page, use these to make searching your collection faster!
+
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
 
 
 ## Pokemon information
@@ -172,6 +191,8 @@ user | The user to provide details about. Must be a user in the current server.
 
 > [!IMPORTANT]
 > Ensure you are using the number displayed next to the Pokemon in your collection (`/pokemon_collection`) and <ins>not</ins> the Pokemon's Pokedex number, as it will not work as intended.
+
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -206,6 +227,8 @@ user | The user to provide details about. Must be a user in the current server.
 > [!TIP]
 > Use `/pokemon_spawns` before spawning so that you can find your favourite Pokemon!
 
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
 
 
 ## Check the Pokemon that spawn in an area
@@ -235,6 +258,8 @@ user | The user to provide details about. Must be a user in the current server.
 > ⠀⠀⠀⠀ **• Snowfield Forest** <br>
 > ⠀⠀⠀⠀ **• Galactic Edge** <br>
 > ⠀⠀⠀⠀ **• Event**
+
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
@@ -266,6 +291,8 @@ user | The user to provide details about. Must be a user in the current server.
 > [!NOTE]
 > Due to how Discord handles the status of bots, they are limited to these options.
 
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
+
 
 
 ## Set channel slowmode
@@ -280,6 +307,8 @@ user | The user to provide details about. Must be a user in the current server.
 
 > [!TIP]
 > This isn't limited to Discord's channel setting options! You can use this to set the slowmode to anywhere from 1-21600 seconds! (Max 6 hours)
+
+*[[Return to Table of Contents]](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/SafeBot/docs.md#-table-of-contents)*
 
 
 
