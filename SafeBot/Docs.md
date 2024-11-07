@@ -301,6 +301,8 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+
 
 ## Set the bot's status
 **Version added:** 1.0.0 <br>
