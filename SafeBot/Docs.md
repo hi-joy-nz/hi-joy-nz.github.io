@@ -6,36 +6,36 @@ Documentation for the SafeBot Discord Bot, a private Discord bot for the [Safe H
 SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), and is developed solo by [me](https://github.com/hi-joy-nz)
 
 # 📖 Table of contents
-- [Commands](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#%EF%B8%8F-commands)
-  - [About](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#about-user)
-  - [Balance](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#points-balance)
-  - [Change points](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#change-points-of-a-user)
-  - [Change points (all)](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#change-points-of-all-users)
-  - [Coinflip](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#coinflip)
-  - [Daily](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#claim-daily-points)
-  - [Help](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#help-command)
-  - [Mute](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#mute-a-user)
+- [Commands](https://hi-joy-nz.github.io//SafeBot/Docs#%EF%B8%8F-commands)
+  - [About](https://hi-joy-nz.github.io//SafeBot/Docs#about-user)
+  - [Balance](https://hi-joy-nz.github.io//SafeBot/Docs#points-balance)
+  - [Change points](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-a-user)
+  - [Change points (all)](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-all-users)
+  - [Coinflip](https://hi-joy-nz.github.io//SafeBot/Docs#coinflip)
+  - [Daily](https://hi-joy-nz.github.io//SafeBot/Docs#claim-daily-points)
+  - [Help](https://hi-joy-nz.github.io//SafeBot/Docs#help-command)
+  - [Mute](https://hi-joy-nz.github.io//SafeBot/Docs#mute-a-user)
   - Pokemon
-    - [Collection](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#pokemon-collection)
-    - [Info](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#pokemon-information)
-    - [Spawn](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#spawn-a-pokemon)
-    - [Spawns](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#check-the-pokemon-that-spawn-in-an-area)
-  - [Random colour](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#generate-a-random-colour)
-  - [Set bot status](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#set-the-bots-status)
-  - [Set slowmode](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#set-channel-slowmode)
-  - [Spotify search](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#search-for-a-song-on-spotify)
-  - [Staff help](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#staff-help-command)
-  - [Suggest](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#suggest-a-feature)
+    - [Collection](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-collection)
+    - [Info](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-information)
+    - [Spawn](https://hi-joy-nz.github.io//SafeBot/Docs#spawn-a-pokemon)
+    - [Spawns](https://hi-joy-nz.github.io//SafeBot/Docs#check-the-pokemon-that-spawn-in-an-area)
+  - [Random colour](https://hi-joy-nz.github.io//SafeBot/Docs#generate-a-random-colour)
+  - [Set bot status](https://hi-joy-nz.github.io//SafeBot/Docs#set-the-bots-status)
+  - [Set slowmode](https://hi-joy-nz.github.io//SafeBot/Docs#set-channel-slowmode)
+  - [Spotify search](https://hi-joy-nz.github.io//SafeBot/Docs#search-for-a-song-on-spotify)
+  - [Staff help](https://hi-joy-nz.github.io//SafeBot/Docs#staff-help-command)
+  - [Suggest](https://hi-joy-nz.github.io//SafeBot/Docs#suggest-a-feature)
   - Tickets
-    - [Add](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#add-a-user-to-a-ticket)
-    - [Close](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#close-a-ticket)
-    - [Create GUI](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#create-ticket-gui)
-    - [Remove](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#ticket-remove)
-  - [Unmute](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#unmute-a-user)
-  - [Work](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#work-for-points)
-- [Features](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-features)
-  - [Starboard](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#starboard)
-  - [Ticketing](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#ticketing)
+    - [Add](https://hi-joy-nz.github.io//SafeBot/Docs#add-a-user-to-a-ticket)
+    - [Close](https://hi-joy-nz.github.io//SafeBot/Docs#close-a-ticket)
+    - [Create GUI](https://hi-joy-nz.github.io//SafeBot/Docs#create-ticket-gui)
+    - [Remove](https://hi-joy-nz.github.io//SafeBot/Docs#ticket-remove)
+  - [Unmute](https://hi-joy-nz.github.io//SafeBot/Docs#unmute-a-user)
+  - [Work](https://hi-joy-nz.github.io//SafeBot/Docs#work-for-points)
+- [Features](https://hi-joy-nz.github.io//SafeBot/Docs#-features)
+  - [Starboard](https://hi-joy-nz.github.io//SafeBot/Docs#starboard)
+  - [Ticketing](https://hi-joy-nz.github.io//SafeBot/Docs#ticketing)
  
 # 🎛️ Commands
 
@@ -50,7 +50,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Parameters:** <br>
 user | The user to provide details about. Must be a user in the current server.
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 ## Points balance
@@ -63,7 +63,7 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:** <br>
 **(Optional) user** | The user to display the balance of. Must be a user in the current server.
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -79,7 +79,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **change** | The amount of points to change `user`'s balance by. Must be an integer, can be positive or negative.
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -93,7 +93,7 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:** <br>
 **change** | The amount of points to change all balances by. Must be an integer, can be positive or negative.
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -106,7 +106,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -119,7 +119,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -132,7 +132,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -151,7 +151,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **reason** | The reason for muting the user.
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -166,7 +166,7 @@ user | The user to provide details about. Must be a user in the current server.
 **(Optional) filter** | Filter your collection to display only Pokemon that meet certain criteria. Options: <br>
 **• Shiny** | Filter for shiny Pokemon
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -180,7 +180,7 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:** <br>
 **number** | Collection number of the Pokemon in your collection. Must be an integer within your collection.
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -222,7 +222,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **• Event** | Area 14
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -251,7 +251,7 @@ user | The user to provide details about. Must be a user in the current server.
 **• Galactic Edge**| Area 13 <br>
 **• Event** | Area 14
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -280,7 +280,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **text** | Text to show in status. Example: `Playing <text>`
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -294,7 +294,7 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:** <br>
 **cooldown** | Time in seconds to set the channel's slowmode to
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -308,7 +308,7 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:** <br>
 **search** | Search spotify for this term
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -321,7 +321,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -334,7 +334,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None, but will open a model (form) that must be filled in
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -348,7 +348,7 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:** <br>
 **user** | The user to add to the current ticket. Must be a user that is in the server but not already in the current ticket
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -361,7 +361,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -374,7 +374,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -388,7 +388,7 @@ user | The user to provide details about. Must be a user in the current server.
 **Parameters:** <br>
 **user** | The user to remove from the current ticket. Must be a member in the server who is already in the ticket.
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -405,7 +405,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **reason** | Reason for unmuting the user
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -418,7 +418,7 @@ user | The user to provide details about. Must be a user in the current server.
 
 **Parameters:** <br> None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io/hi-joy-nz/SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
 # ⭐ features
