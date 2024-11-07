@@ -1,5 +1,6 @@
 <link href="style.css" rel="stylesheet">
 <link rel="shortcut icon" type="image/x-icon" href="icon.ico">
+<title>Joy | SafeBot Docs</title>
 
 # 📋 SafeBot Documentation
 Documentation for the SafeBot Discord Bot, a private Discord bot for the [Safe Haven Discord server](https://discord.gg/BcuRXcBasz)
