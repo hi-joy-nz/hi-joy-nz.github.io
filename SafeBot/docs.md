@@ -462,4 +462,4 @@ SafeBot is build with [discord.py](https://discordpy.readthedocs.io/en/stable/),
 **Description:** Users can open a private channel with staff to discuss issues or questions.
 
 **Usage:** Users simply click the 'open ticket' button in the designated ticket support channel. They will then get a private channel to talk to staff through. <br>
-**Permissions:** None
+**Permissions required:** None
