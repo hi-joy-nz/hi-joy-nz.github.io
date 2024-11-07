@@ -152,7 +152,38 @@
 **Version added:** 1.0.0 <br>
 **Description:** Spawn a wild Pokemon in a certain area once every two minutes.
 
+> [!WARNING]
+> This command is named very similarly to `/pokemon_spawns`, make sure you're looking at the right command!
+
 **Usage:** `/pokemon_spawn <area>` <br>
+**Permissions required:** None
+
+**Parameters:**
+> **area** | The area in which you want to spawn a Pokemon. Each area has a different list of Pokemon that can spawn. Options: <br>
+> ⠀⠀⠀⠀ **• Farfetch'd Fields** <br>
+> ⠀⠀⠀⠀ **• Shaded Forest** <br>
+> ⠀⠀⠀⠀ **• Cliff's Cave** <br>
+> ⠀⠀⠀⠀ **• Danger Desert** <br>
+> ⠀⠀⠀⠀ **• Blue Beach** <br>
+> ⠀⠀⠀⠀ **• Blue Sea** <br>
+> ⠀⠀⠀⠀ **• Cloudy Sky** <br>
+> ⠀⠀⠀⠀ **• Mount Magma** <br>
+> ⠀⠀⠀⠀ **• Dark Gravestones** <br>
+> ⠀⠀⠀⠀ **• Science Lab** <br>
+> ⠀⠀⠀⠀ **• Myndflike City** <br>
+> ⠀⠀⠀⠀ **• Snowfield Forest** <br>
+> ⠀⠀⠀⠀ **• Galactic Edge** <br>
+> ⠀⠀⠀⠀ **• Event**
+
+
+## Check the Pokemon that spawn in an area
+**Version added:** 1.0.0 <br>
+**Description:** Display a list of Pokemon that spawn in an area sorted by rarity.
+
+> [!WARNING]
+> This command is named very similarly to `/pokemon_spawn`, make sure you're looking at the right command!
+
+**Usage:** `/pokemon_spawns <area>` <br>
 **Permissions required:** None
 
 **Parameters:**
