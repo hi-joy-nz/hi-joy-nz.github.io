@@ -39,11 +39,11 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **<ins>Bot management</ins>** <br>
 [Change points](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-a-user) <br>
 [Change points (all)](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-all-users) <br>
-[Set bot status](https://hi-joy-nz.github.io//SafeBot/Docs#set-the-bots-status)<br>
+[Set bot status](https://hi-joy-nz.github.io//SafeBot/Docs#set-the-bots-status)
 
 ### **[Features](https://hi-joy-nz.github.io//SafeBot/Docs#-features)**
 [Starboard](https://hi-joy-nz.github.io//SafeBot/Docs#starboard)<br>
-[Ticketing](https://hi-joy-nz.github.io//SafeBot/Docs#ticketing)<br>
+[Ticketing](https://hi-joy-nz.github.io//SafeBot/Docs#ticketing)
  
 # 🎛️ Commands
 
