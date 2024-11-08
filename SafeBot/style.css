@@ -5,7 +5,7 @@
     color: #eeeeee;
     align-content: center;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
 *:link, *:visited{
@@ -19,5 +19,6 @@ body {
 
 th, td{
     background-color: #2e2e2e;
-    color: #eeeeee
+    color: #eeeeee;
+    align-self: center;
 }
