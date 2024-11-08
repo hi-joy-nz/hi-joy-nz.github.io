@@ -300,8 +300,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | | Listening to - Set status to "Listening to \<text>" |
 | | Playing - Set status to "Playing \<text>" |
 | | Watching - Set status to "Wathcing \<text>" |
-
-**text** | Text to show in status. Example: `Playing <text>`
+| |**text** | Text to show in status. Example: `Playing <text>` |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -458,7 +457,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
-# ⭐ features
+# ⚙️ features
 
 ## Starboard
 
