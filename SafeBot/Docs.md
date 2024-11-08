@@ -121,7 +121,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/coinflip` <br>
 **Permissions required:** None 
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -134,7 +134,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/daily` <br>
 **Permissions required:** None
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -147,7 +147,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/help` <br>
 **Permissions required:** None
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -280,7 +280,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/random_colour` <br>
 **Permissions required:** None
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -347,7 +347,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/staff_help` <br>
 **Permissions required:** None
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -360,7 +360,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/suggest` <br>
 **Permissions required:** None
 
-**Parameters:** <br> None, but will open a model (form) that must be filled in
+**Parameters:** None, but will open a model (form) that must be filled in
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -390,7 +390,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/ticket_close` <br>
 **Permissions required:** None, but must be in a ticket
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -403,7 +403,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/ticket_create_gui` <br>
 **Permissions required:** Manage Server
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -452,7 +452,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/work` <br>
 **Permissions required:** None
 
-**Parameters:** <br> None
+**Parameters:** None
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
