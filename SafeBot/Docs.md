@@ -47,16 +47,11 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
  
 # 🎛️ Commands
 
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 30%">
-
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
-
-</div>
+<table style="margin: 0px auto;"></table>
+  <tr><th>Item</th>           <th>Price</th>      <th># In stock</th></tr>
+  <tr><td>Juicy Apples</td>   <td>1.99</td>       <td>739</td></tr>
+  <tr><td>Bananas</td>        <td>1.89</td>       <td>6</td></tr>
+</table>
 
 ## About user
 **Version added:** 1.0.0 <br>
@@ -72,7 +67,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | user | The user to provide details about. Must be a user in the current server.| 
 
 
-<return> *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)* </return>
+*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)* 
 
 
 ## Points balance
