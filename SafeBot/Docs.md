@@ -57,6 +57,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 <table>
 <tr><th>Name</th><th>Description</th></tr>
 <tr><td>user</td><td>The user to provide details about. Must be a user in the current server.</td></tr>
+</table>
 
 **Parameters:** <br>
 
