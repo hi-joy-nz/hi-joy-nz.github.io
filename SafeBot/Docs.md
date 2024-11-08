@@ -7,42 +7,42 @@ Documentation for the SafeBot Discord Bot, a private Discord bot for the [Safe H
 SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), and is developed solo by [hi.joy](https://hi-joy-nz.github.io/)
 
 # 📖 Table of contents
-**[-- Commands --](https://hi-joy-nz.github.io//SafeBot/Docs#%EF%B8%8F-commands)** <br>
+**[-- Commands --](https://hi-joy-nz.github.io/SafeBot/Docs#%EF%B8%8F-commands)** <br>
 <ins>**General**</ins> <br>
-[Help](https://hi-joy-nz.github.io//SafeBot/Docs#help-command)<br>
-[Suggest](https://hi-joy-nz.github.io//SafeBot/Docs#suggest-a-feature)<br>
+[Help](https://hi-joy-nz.github.io/SafeBot/Docs#help-command)<br>
+[Suggest](https://hi-joy-nz.github.io/SafeBot/Docs#suggest-a-feature)<br>
 **<ins>Fun</ins>** <br>
-[About](https://hi-joy-nz.github.io//SafeBot/Docs#about-user) <br>
-[Coinflip](https://hi-joy-nz.github.io//SafeBot/Docs#coinflip)<br>
-[Random colour](https://hi-joy-nz.github.io//SafeBot/Docs#generate-a-random-colour)<br>
-[Spotify search](https://hi-joy-nz.github.io//SafeBot/Docs#search-for-a-song-on-spotify)<br>
+[About](https://hi-joy-nz.github.io/SafeBot/Docs#about-user) <br>
+[Coinflip](https://hi-joy-nz.github.io/SafeBot/Docs#coinflip)<br>
+[Random colour](https://hi-joy-nz.github.io/SafeBot/Docs#generate-a-random-colour)<br>
+[Spotify search](https://hi-joy-nz.github.io/SafeBot/Docs#search-for-a-song-on-spotify)<br>
 **<ins>Points</ins>** <br>
-[Balance](https://hi-joy-nz.github.io//SafeBot/Docs#points-balance) <br>
-[Daily](https://hi-joy-nz.github.io//SafeBot/Docs#claim-daily-points)<br>
-[Work](https://hi-joy-nz.github.io//SafeBot/Docs#work-for-points)<br>
+[Balance](https://hi-joy-nz.github.io/SafeBot/Docs#points-balance) <br>
+[Daily](https://hi-joy-nz.github.io/SafeBot/Docs#claim-daily-points)<br>
+[Work](https://hi-joy-nz.github.io/SafeBot/Docs#work-for-points)<br>
 **<ins>Pokemon</ins>** <br>
-[Pokemon collection](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-collection)<br>
-[Pokemon info](https://hi-joy-nz.github.io//SafeBot/Docs#pokemon-information)<br>
-[Pokemon spawn](https://hi-joy-nz.github.io//SafeBot/Docs#spawn-a-pokemon)<br>
-[Pokemon spawns](https://hi-joy-nz.github.io//SafeBot/Docs#check-the-pokemon-that-spawn-in-an-area)<br>
+[Pokemon collection](https://hi-joy-nz.github.io/SafeBot/Docs#pokemon-collection)<br>
+[Pokemon info](https://hi-joy-nz.github.io/SafeBot/Docs#pokemon-information)<br>
+[Pokemon spawn](https://hi-joy-nz.github.io/SafeBot/Docs#spawn-a-pokemon)<br>
+[Pokemon spawns](https://hi-joy-nz.github.io/SafeBot/Docs#check-the-pokemon-that-spawn-in-an-area)<br>
 **<ins>Tickets</ins>** <br>
-[Ticket add](https://hi-joy-nz.github.io//SafeBot/Docs#add-a-user-to-a-ticket)<br>
-[Ticket close](https://hi-joy-nz.github.io//SafeBot/Docs#close-a-ticket)<br>
-[Ticket create GUI](https://hi-joy-nz.github.io//SafeBot/Docs#create-ticket-gui)<br>
-[Ticket remove](https://hi-joy-nz.github.io//SafeBot/Docs#ticket-remove)<br>
+[Ticket add](https://hi-joy-nz.github.io/SafeBot/Docs#add-a-user-to-a-ticket)<br>
+[Ticket close](https://hi-joy-nz.github.io/SafeBot/Docs#close-a-ticket)<br>
+[Ticket create GUI](https://hi-joy-nz.github.io/SafeBot/Docs#create-ticket-gui)<br>
+[Ticket remove](https://hi-joy-nz.github.io/SafeBot/Docs#ticket-remove)<br>
 **<ins>Server moderation</ins>** <br>
-[Mute](https://hi-joy-nz.github.io//SafeBot/Docs#mute-a-user)<br>
-[Set slowmode](https://hi-joy-nz.github.io//SafeBot/Docs#set-channel-slowmode)<br>
-[Staff help](https://hi-joy-nz.github.io//SafeBot/Docs#staff-help-command)<br>
-[Unmute](https://hi-joy-nz.github.io//SafeBot/Docs#unmute-a-user)<br>
+[Mute](https://hi-joy-nz.github.io/SafeBot/Docs#mute-a-user)<br>
+[Set slowmode](https://hi-joy-nz.github.io/SafeBot/Docs#set-channel-slowmode)<br>
+[Staff help](https://hi-joy-nz.github.io/SafeBot/Docs#staff-help-command)<br>
+[Unmute](https://hi-joy-nz.github.io/SafeBot/Docs#unmute-a-user)<br>
 **<ins>Bot management</ins>** <br>
-[Change points](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-a-user) <br>
-[Change points (all)](https://hi-joy-nz.github.io//SafeBot/Docs#change-points-of-all-users) <br>
-[Set bot status](https://hi-joy-nz.github.io//SafeBot/Docs#set-the-bots-status)
+[Change points](https://hi-joy-nz.github.io/SafeBot/Docs#change-points-of-a-user) <br>
+[Change points (all)](https://hi-joy-nz.github.io/SafeBot/Docs#change-points-of-all-users) <br>
+[Set bot status](https://hi-joy-nz.github.io/SafeBot/Docs#set-the-bots-status)
 
-**[-- Features --](https://hi-joy-nz.github.io//SafeBot/Docs#-features)** <br>
-[Starboard](https://hi-joy-nz.github.io//SafeBot/Docs#starboard)<br>
-[Ticketing](https://hi-joy-nz.github.io//SafeBot/Docs#ticketing)
+**[-- Features --](https://hi-joy-nz.github.io/SafeBot/Docs#-features)** <br>
+[Starboard](https://hi-joy-nz.github.io/SafeBot/Docs#starboard)<br>
+[Ticketing](https://hi-joy-nz.github.io/SafeBot/Docs#ticketing)
  
 # 🎛️ Commands
 
@@ -59,7 +59,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **user** | The user to provide details about. Must be a user in the current server. |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)* 
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)* 
 
 
 ## Points balance
@@ -75,7 +75,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **user** | (Optional) The user to display the balance of. Must be a user in the current server. |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -93,7 +93,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | **user** | The user to change the points balance of. Must be a user in the server. |
 | **change** | The amount of points to change `user`'s balance by. Must be an integer, can be positive or negative. |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -110,7 +110,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **change** | The amount of points to change all balances by. Must be an integer, can be positive or negative. |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -123,7 +123,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -136,7 +136,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -149,7 +149,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -169,7 +169,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | **length** | Time in minutes the user should be muted for. |
 | **reason** | The reason for muting the user. |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -187,7 +187,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | **filter** | (Optional) Filter your collection to display only Pokemon that meet certain criteria. Options: <br> |
 | | **Shiny** \| Filter for shiny Pokemon |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -204,7 +204,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **number** | Collection number of the Pokemon in your collection. Must be an integer within your collection. |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -236,7 +236,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | |Galactic Edge | 
 | |Event |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -269,7 +269,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | |Event |
 
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -282,7 +282,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 ## Set the bot's status
@@ -302,7 +302,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | | Watching - Set status to "Wathcing \<text>" |
 | |**text** | Text to show in status. Example: `Playing <text>` |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -319,7 +319,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **cooldown** | Time in seconds to set the channel's slowmode to |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -336,7 +336,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **search** | Search spotify for this term |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -349,7 +349,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -362,7 +362,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None, but will open a model (form) that must be filled in
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -379,7 +379,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **user** | The user to add to the current ticket. Must be a user that is in the server but not already in the current ticket |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -392,7 +392,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -405,7 +405,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -422,7 +422,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | ------ | ------ |
 | **user** | The user to remove from the current ticket. Must be a member in the server who is already in the ticket. |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -441,7 +441,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | **user** | User to be unmuted. Must be a member of the server that is currently muted |
 | **reason** | Reason for unmuting the user |
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -454,7 +454,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 **Parameters:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 # ⚙️ Features
@@ -467,7 +467,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** React to a cool message with the ⭐ emoji, once 3 people react with that, it will be sent to the starboard! <br>
 **Permissions required:** Add reactions
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
 
 
@@ -479,4 +479,4 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** Users simply click the 'open ticket' button in the designated ticket support channel. They will then get a private channel to talk to staff through. <br>
 **Permissions required:** None
 
-*[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
