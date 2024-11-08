@@ -79,7 +79,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 | Name | Description |
 | ------ | ------ |
-| **(Optional) user** | The user to display the balance of. Must be a user in the current server. |
+| **user** | (Optional) The user to display the balance of. Must be a user in the current server. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
@@ -190,7 +190,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 
 | Name | Description |
 | ------ | ------ |
-| **(Optional) filter** | Filter your collection to display only Pokemon that meet certain criteria. Options: <br> |
+| **filter** | (Optional) Filter your collection to display only Pokemon that meet certain criteria. Options: <br> |
 | | **Shiny** \| Filter for shiny Pokemon |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
