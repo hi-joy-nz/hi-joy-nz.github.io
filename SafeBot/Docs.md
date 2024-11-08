@@ -457,7 +457,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 *[Return to Table of Contents](https://hi-joy-nz.github.io//SafeBot/Docs#-table-of-contents)*
 
 
-# ⚙️ features
+# ⚙️ Features
 
 ## Starboard
 
