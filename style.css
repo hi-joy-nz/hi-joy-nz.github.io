@@ -1,3 +1,12 @@
 * {
     text-align: center;
 }
+
+body {
+    background-color: #2e2e2e;
+    background-size: cover;
+}
+
+*:link, *:visited {
+    color: #4d97f1;
+}
