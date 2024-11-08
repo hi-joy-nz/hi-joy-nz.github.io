@@ -18,7 +18,9 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 [Spotify search](https://hi-joy-nz.github.io/SafeBot/Docs#search-for-a-song-on-spotify)<br>
 **<ins>Points</ins>** <br>
 [Balance](https://hi-joy-nz.github.io/SafeBot/Docs#points-balance) <br>
+[Buy](https://hi-joy-nz.github.io/SafeBot/Docs#buy-an-item-from-the-store) <br>
 [Daily](https://hi-joy-nz.github.io/SafeBot/Docs#claim-daily-points)<br>
+[Store](https://hi-joy-nz.github.io/SafeBot/Docs#store) <br>
 [Work](https://hi-joy-nz.github.io/SafeBot/Docs#work-for-points)<br>
 **<ins>Pokemon</ins>** <br>
 [Pokemon collection](https://hi-joy-nz.github.io/SafeBot/Docs#pokemon-collection)<br>
@@ -74,6 +76,23 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 | Name | Description |
 | ------ | ------ |
 | **user** | (Optional) The user to display the balance of. Must be a user in the current server. |
+
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
+
+
+
+## Buy an item from the store
+**Version added:** 1.0.0 <br>
+**Description:** Purchase an item from the store
+
+**Usage:** `/buy <id>` <br>
+**Permissions required:** None
+
+**Parameters:** <br>
+
+| Name | Description |
+| ------ | ------ |
+| **id** | The number ID linked to the item you want to purchase. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
@@ -345,6 +364,19 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Description:** Display a list of commands for server staff and bot admins
 
 **Usage:** `/staff_help` <br>
+**Permissions required:** None
+
+**Parameters:** None
+
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
+
+
+
+## Store
+**Version added:** 1.0.0 <br>
+**Description:** Display a store from where you can buy Pokemon
+
+**Usage:** `/store` <br>
 **Permissions required:** None
 
 **Parameters:** None
