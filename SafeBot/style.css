@@ -25,3 +25,7 @@ th, td{
     margin-left: auto;
     margin-right: auto;
 }
+
+.centerTable{
+    margin: 0px auto;
+}
