@@ -392,7 +392,7 @@ SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/), 
 **Usage:** `/suggest` <br>
 **Permissions required:** None
 
-**Parameters:** None, but will open a model (form) that must be filled in
+**Parameters:** None, but will open a modal (form) that must be filled in
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
