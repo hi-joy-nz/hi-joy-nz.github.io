@@ -22,4 +22,4 @@ Check out my [Pronouns.page](https://en.pronouns.page/@hi.joy) (`@hi.joy`)
 **SafeBot** <br>
 Read the [SafeBot documentation](https://hi-joy-nz.github.io/SafeBot/Docs) <br>
 Find all the latest changes with [SafeBot's update log](https://hi-joy-nz.github.io/SafeBot/Updates) <br>
-Keep up-to-date with the latest [SafeBot Nens](https://hi-joy-nz.github.io/SafeBot/News)
+Keep up-to-date with the latest [SafeBot News](https://hi-joy-nz.github.io/SafeBot/News)
