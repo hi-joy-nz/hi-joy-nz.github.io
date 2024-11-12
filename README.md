@@ -1,6 +1,5 @@
 <link href="style.css" rel="stylesheet">
 <link rel="shortcut icon" type="image/x-icon" href="SafeBot/icon.ico">
-{::options auto_ids="false" /}
 
 16 • she/her • NZ 
 
