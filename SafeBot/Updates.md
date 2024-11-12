@@ -12,7 +12,7 @@
 - `/pokemon_info` now displays how many of that Pokemon you have caught. Thanks to `@eiranroan` for this suggestion!
 
 ### Spawn changes
-- Enabled the Event spawn area: Discover the ancient world with the Fossilised Fortunes event spawns! If you're feeling lucky, shiny Pokemon are more likely to be found in the event area!
+- Enabled the Event spawn area: Discover the ancient world with the Fossilised Fortunes event spawns! If you're feeling lucky, shiny Pokemon are more likely to be found in the event area! [Read more about this event](https://hi-joy-nz.github.io/SafeBot/News#spawn-event-fossilised-fortunes).
 - Jigglypuff no longer spawns in the Science Lab area, and Abra is now commonly found there instead!
 
 ### Bug fixes
