@@ -4,7 +4,7 @@
 # SafeBot Updates
 
 ## SafeBot Version 1.0.1 Release Notes
-12th of November, 2024
+12th of November, 2024 • Joy
 ### New & updated features
 - Added legendary/mythical filter to `/pokemon_collection`, so that you can filter your collection for your rarest Pokemon!
 - Starboard now supports images and will show the *first image attached* to a starboarded message.
@@ -22,6 +22,6 @@
 
 
 ## SafeBot Version 1.0.0 Release Notes
-9th of November, 2024
+9th of November, 2024 • Joy
 ### SafeBot's public release
 SafeBot is now avaliable for public use in the [Safe Haven Discord server](https://discord.gg/BcuRXcBasz)
