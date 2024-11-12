@@ -206,7 +206,8 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 | Name | Description |
 | :------ | :------ |
 | **filter** | (Optional) Filter your collection to display only Pokemon that meet certain criteria. Options: <br> |
-| | **Shiny** \| Filter for shiny Pokemon |
+| | **Shiny** - Filter for shiny Pokemon |
+| | **Legendary** - Filter for legendary and mythical Pokemon |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
