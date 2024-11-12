@@ -60,7 +60,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **user** | The user to provide details about. Must be a user in the current server. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)* 
@@ -76,7 +76,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **user** | (Optional) The user to display the balance of. Must be a user in the current server. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -93,7 +93,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **id** | The number ID linked to the item you want to purchase. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -110,7 +110,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **user** | The user to change the points balance of. Must be a user in the server. |
 | **change** | The amount of points to change `user`'s balance by. Must be an integer, can be positive or negative. |
 
@@ -128,7 +128,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **change** | The amount of points to change all balances by. Must be an integer, can be positive or negative. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -185,7 +185,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **user** | A user in the current server that is not already muted.| 
 | **length** | Time in minutes the user should be muted for. |
 | **reason** | The reason for muting the user. |
@@ -204,7 +204,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **filter** | (Optional) Filter your collection to display only Pokemon that meet certain criteria. Options: <br> |
 | | **Shiny** \| Filter for shiny Pokemon |
 
@@ -222,7 +222,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **number** | Collection number of the Pokemon in your collection. Must be an integer within your collection. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -240,7 +240,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **area** | The area in which you want to spawn a Pokemon. Each area has a different list of Pokemon that can spawn. Options: |
 | | Farfetch'd Fields |
 | | Shaded Forest |
@@ -272,7 +272,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **area** | The area in which you want to check what Pokemon spawn. Each area has a different list of Pokemon that can spawn. Options: |
 | | Farfetch'd Fields |
 | | Shaded Forest |
@@ -316,12 +316,12 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **status_type** | The type of status. Options: |
 | | Listening to - Set status to "Listening to \<text>" |
 | | Playing - Set status to "Playing \<text>" |
-| | Watching - Set status to "Wathcing \<text>" |
-| |**text** | Text to show in status. Example: `Playing <text>` |
+| | Watching - Set status to "Watching \<text>" |
+| **text** | Text to show in status. Example: `Playing <text>` |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
@@ -337,7 +337,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **cooldown** | Time in seconds to set the channel's slowmode to |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -354,7 +354,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **search** | Search spotify for this term |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -394,7 +394,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Usage:** `/suggest` <br>
 **Permissions required:** None
 
-**Parameters:** None, but will open a model (form) that must be filled in
+**Parameters:** None, but will open a modal (form) that must be filled in
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
@@ -410,7 +410,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **user** | The user to add to the current ticket. Must be a user that is in the server but not already in the current ticket |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -453,7 +453,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **user** | The user to remove from the current ticket. Must be a member in the server who is already in the ticket. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
@@ -471,7 +471,7 @@ Read [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
 **Parameters:** <br>
 
 | Name | Description |
-| ------ | ------ |
+| :------ | :------ |
 | **user** | User to be unmuted. Must be a member of the server that is currently muted |
 | **reason** | Reason for unmuting the user |
 
