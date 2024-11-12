@@ -15,4 +15,4 @@ Check out my [Pronouns.page](https://en.pronouns.page/@hi.joy) (`@hi.joy`)
 
 ### Pages
 Read the [SafeBot Documentation](https://hi-joy-nz.github.io/SafeBot/Docs) <br>
-Keep up-to-date with [Safebot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
+Keep up-to-date with [SafeBot's update log](https://hi-joy-nz.github.io/SafeBot/Updates)
