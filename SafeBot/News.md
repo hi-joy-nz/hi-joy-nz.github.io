@@ -12,7 +12,7 @@ Discover the ancient world with the Fossilised Fortunes event!
 Duration: November 12th, 2024 until November 22nd, 2024
 
 ### Event Bonuses
-- The chances of finding a shiny Pokemon in the Event Spawn Area are increased by 15%
+- The chances of finding a shiny Pokemon in the Event Spawn Area are increased by 15%!
 - Rare fossil Pokemon are appearing more commonly!
 
 ### Event Spawns
