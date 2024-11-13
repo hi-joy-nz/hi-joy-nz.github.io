@@ -3,6 +3,15 @@
 
 # SafeBot Updates
 
+## SafeBot Version 1.0.1-1 Release Notes
+13th of November, 2024 • Joy
+### Adjustments
+- Starboard message footers now show the time the original message was sent, as opposed to the time it was starboarded.
+- Starboard message slightly altered.
+
+### Bug fixes
+- When spawning a Pokemon in the Event Spawn Area, there is no longer a chance you recieve an error message.
+
 ## SafeBot Version 1.0.1 Release Notes
 12th of November, 2024 • Joy
 ### New & updated features
