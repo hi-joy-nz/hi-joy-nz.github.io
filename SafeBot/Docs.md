@@ -412,6 +412,7 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 **Permissions required:** None
 
 **Parameters:** <br>
+
 | Name | Description |
 | :------ | :------ |
 | **type** | The type of feedback you want to provide. Options: |
