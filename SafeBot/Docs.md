@@ -13,9 +13,10 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 **[-- Commands --](https://hi-joy-nz.github.io/SafeBot/Docs#%EF%B8%8F-commands)** <br>
 <ins>**General**</ins> <br>
 [Help](https://hi-joy-nz.github.io/SafeBot/Docs#help-command)<br>
-[Suggest](https://hi-joy-nz.github.io/SafeBot/Docs#suggest-a-feature)<br>
+[Feedback](https://hi-joy-nz.github.io/SafeBot/Docs#provide-feedback)<br>
 **<ins>Fun</ins>** <br>
 [About](https://hi-joy-nz.github.io/SafeBot/Docs#about-user) <br>
+[About server](https://hi-joy-nz.github.io/SafeBot/Docs#about-a-server) <br>
 [Coinflip](https://hi-joy-nz.github.io/SafeBot/Docs#coinflip)<br>
 [Random colour](https://hi-joy-nz.github.io/SafeBot/Docs#generate-a-random-colour)<br>
 [Spotify search](https://hi-joy-nz.github.io/SafeBot/Docs#search-for-a-song-on-spotify)<br>
@@ -65,6 +66,20 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 | **user** | The user to provide details about. Must be a user in the current server. |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)* 
+
+
+
+## About a server
+**Version added:** 1.1.0 <br>
+**Description:** Display details about the current server.
+
+**Usage:** `/about_server` <br>
+**Permissions required:** None
+
+**Parameters:** None
+
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)* 
+
 
 
 ## Points balance
@@ -389,14 +404,20 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 
 
 
-## Suggest a feature
+## Provide feedback
 **Version added:** 1.0.0 <br>
-**Description:** Suggest a feature or change, or report a bug to the developer
+**Description:** Provide feedback to the developer
 
-**Usage:** `/suggest` <br>
+**Usage:** `/feedback <type>` (previously `/suggest`)<br>
 **Permissions required:** None
 
-**Parameters:** None, but will open a modal (form) that must be filled in
+**Parameters:** <br>
+| Name | Description |
+| :------ | :------ |
+| **type** | The type of feedback you want to provide. Options: |
+| | Suggestion - Suggest a feature or change |
+| | Bug report - Report a bug |
+| | General feedback - Provide general feedback |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 

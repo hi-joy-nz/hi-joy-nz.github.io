@@ -3,6 +3,31 @@
 
 # SafeBot Updates
 
+## SafeBot Version 1.1.0 Release Notes
+15th of November, 2024 • Joy
+### Changes to starboard message
+- Changed the emoji before the message jump link from ✨ to ⭐
+- If a message has more than one attachment, the message will now show this.
+- If the attachment of a starboarded message can not be displayed, it will say this.
+
+### Changes to suggestion command
+- Renamed the command from `/suggest` to `/feedback`
+- Added the "type" parameter, which is used to describe the nature of your feedback.
+- [Read the docs](https://hi-joy-nz.github.io/SafeBot/Docs#provide-feedback) for more details
+
+### New about server command
+- Similar to `/about`, but instead it provides details about the current server as opposed to a user.
+- [Read the docs](https://hi-joy-nz.github.io/SafeBot/Docs#about-a-server) for more details
+
+### Spawn changes
+- Exeggcute no longer spawns in the Galactic Edge spawn area
+- Bulbasaur, Pikachu, Ekans, and Tangela no longer spawn in the Farfetch'd Field spawn area
+- Changed Seel from being a common spawn to being an uncommon spawn in the Blue Sea spawn area
+- Poliwrath makes its debut as a super rare spawn in the Blue Sea spawn area
+- Eevee makes its debut as a rare spawn in the Science Lab spawn area
+
+<br>
+
 ## SafeBot Version 1.0.1-1 Release Notes
 13th of November, 2024 • Joy
 ### Adjustments
@@ -11,6 +36,8 @@
 
 ### Bug fixes
 - When spawning a Pokemon in the Event Spawn Area, there is no longer a chance you recieve an error message.
+
+<br>
 
 ## SafeBot Version 1.0.1 Release Notes
 12th of November, 2024 • Joy
