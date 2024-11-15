@@ -26,6 +26,8 @@
 - Poliwrath makes its debut as a super rare spawn in the Blue Sea spawn area
 - Eevee makes its debut as a rare spawn in the Science Lab spawn area
 
+### Bug fixes
+- Fixed an issue where the legendary/mythical filter wouldn't be usable (`/pokemon_collection`)
 <br>
 
 ## SafeBot Version 1.0.1-1 Release Notes
