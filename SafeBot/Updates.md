@@ -58,6 +58,7 @@
 - Other users are no longer able to use the page contol buttons on your `/pokemon_collection`
 - The join "RAWR" will now only be triggered if the server joined is the Safe Haven server.
 
+<br>
 
 ## SafeBot Version 1.0.0 Release Notes
 9th of November, 2024 • Joy
