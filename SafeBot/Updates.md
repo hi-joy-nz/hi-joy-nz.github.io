@@ -3,6 +3,14 @@
 
 # SafeBot Updates
 
+## SafeBot Version 1.1.0-1 Release Notes
+16th of November, 2024 • Joy
+
+### Bug fixes
+- Fixed an issue where certain legendary and mythical Pokemon wouldn't show in user's collections when using the legendary filter.
+
+
+
 ## SafeBot Version 1.1.0 Release Notes
 15th of November, 2024 • Joy
 ### Changes to starboard message
