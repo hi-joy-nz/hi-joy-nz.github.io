@@ -12,3 +12,7 @@ body {
 *:link, *:visited {
     color: #4d97f1;
 }
+
+h1, h2, h3, p{
+    text-align: center;
+}
