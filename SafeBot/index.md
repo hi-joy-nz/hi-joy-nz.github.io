@@ -30,55 +30,55 @@ Spotify Search
 ###  Currency and store system 
 
 Daily points
-- Users can claim a free 350 points every 24 hours.
+>  Users can claim a free 350 points every 24 hours.
 
 Work points
-- Users can claim 80-120 points every 2 hours.
+>  Users can claim 80-120 points every 2 hours.
 
 Balance checking
-- Users can check their own balance or the balance of another user, which is stored in an external file.
+>  Users can check their own balance or the balance of another user, which is stored in an external file.
 
 Store
-- Users can view the store and items within it.
+>  Users can view the store and items within it.
 
 Purchasing
-- Users can buy items from the store using their points.
+>  Users can buy items from the store using their points.
 
 
 ###  Pokémon spawning and collecting 
 
 Spawning
-- Every 2 minutes, users can spawn a Pokémon in a specified 'Spawn Area' - which influences the kinds of Pokémon they can encounter.
+>  Every 2 minutes, users can spawn a Pokémon in a specified 'Spawn Area' - which influences the kinds of Pokémon they can encounter.
 
 Collecting
-- Users can collect Pokémon and view their collections, they can also add filters to find certain Pokémon.
+>  Users can collect Pokémon and view their collections, they can also add filters to find certain Pokémon.
 
 Shiny Pokémon
-- Shiny Pokémon are a rare form of Pokémon, SafeBot makes use of dynamic rates to make harder to find Pokémon more likely to be shiny.
+>  Shiny Pokémon are a rare form of Pokémon, SafeBot makes use of dynamic rates to make harder to find Pokémon more likely to be shiny.
 
 Pokémon information
-- Users can get details about a specific Pokémon from their collection.
+>  Users can get details about a specific Pokémon from their collection.
 
 
 ###  Ticket support system 
 
 Server managers can create an open ticket GUI
-- THis is sent to a certain channel, where users can contact staff via.
+>  THis is sent to a certain channel, where users can contact staff via.
 
 Users get a private channel with staff
-- After opening a ticket, a private channel is created with staff and the user to discuss issues the user may have.
+>  After opening a ticket, a private channel is created with staff and the user to discuss issues the user may have.
 
 Users can add other users to the ticket
-- Users can add anyone, however only staff can remove users.
+>  Users can add anyone, however only staff can remove users.
 
 
 ###  Server moderation 
 
 Mute and unmute users
-- Staff can prevent users from sending messages for a set period of time with a reason. They can unmute a user before their time is up.
+>  Staff can prevent users from sending messages for a set period of time with a reason. They can unmute a user before their time is up.
 
 Manage channel slowmode
-- Provides greater control over a server's message cooldown than what is offered by Discord by default.
+>  Provides greater control over a server's message cooldown than what is offered by Discord by default.
 
 
 ## Skills 
