@@ -17,3 +17,7 @@ body {
     size: 24pt;
     font-style: bold;
 }
+
+.header-anchor {
+    visibility: hidden;
+}
