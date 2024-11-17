@@ -3,12 +3,21 @@
 
 # SafeBot Updates
 
+## SafeBot Version 1.1.0-2 Release Notes
+17th of November, 2024 • Joy
+
+### Adjustments
+- Updated the `/store` store.
+
+### Bug fixes
+- Fixed an issue where typos in the store would cause errors when purchasing specific Pokemon.
+
+
 ## SafeBot Version 1.1.0-1 Release Notes
 16th of November, 2024 • Joy
 
 ### Bug fixes
 - Fixed an issue where certain legendary and mythical Pokemon wouldn't show in user's collections when using the legendary filter.
-
 
 
 ## SafeBot Version 1.1.0 Release Notes
@@ -47,7 +56,6 @@
 ### Bug fixes
 - When spawning a Pokemon in the Event Spawn Area, there is no longer a chance you recieve an error message.
 
-<br>
 
 ## SafeBot Version 1.0.1 Release Notes
 12th of November, 2024 • Joy
@@ -66,7 +74,6 @@
 - Other users are no longer able to use the page contol buttons on your `/pokemon_collection`
 - The join "RAWR" will now only be triggered if the server joined is the Safe Haven server.
 
-<br>
 
 ## SafeBot Version 1.0.0 Release Notes
 9th of November, 2024 • Joy
