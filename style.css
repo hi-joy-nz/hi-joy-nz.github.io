@@ -12,6 +12,7 @@ body {
 
 *:link, *:visited {
     color: #4d97f1;
+    text-decoration: none;
 }
 
 .s_head {
