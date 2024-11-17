@@ -18,6 +18,7 @@ th, td {
 
 *:link, *:visited {
     color: #4d97f1;
+    text-decoration: none;
 }
 
 body {
