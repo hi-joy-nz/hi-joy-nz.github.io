@@ -2,6 +2,7 @@
     text-align: center;
     color: #eeeeee;
     align-content: center;
+    font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 
 body {
@@ -20,4 +21,8 @@ body {
 
 .header-anchor {
     visibility: hidden;
+}
+
+p {
+    padding-bottom: 20px;
 }
