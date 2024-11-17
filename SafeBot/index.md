@@ -5,26 +5,26 @@
 
 # SafeBot
 
-## Pages 
-[Documentation](https://hi-joy-nz.github.io/SafeBot/Docs)
-[Updates](https://hi-joy-nz.github.io/SafeBot/Updates)
-[News](https://hi-joy-nz.github.io/SafeBot/News)
+## Navigation 
+[Documentation](https://hi-joy-nz.github.io/SafeBot/Docs) <br>
+[Updates](https://hi-joy-nz.github.io/SafeBot/Updates) <br>
+[News](https://hi-joy-nz.github.io/SafeBot/News) <br>
 
 ## What is SafeBot? 
-SafeBot is a Discord bot used in the [Safe Haven Discord server](https://discord.gg/BcuRXcBas). 
+SafeBot is a Discord bot used in the [Safe Haven Discord server](https://discord.gg/BcuRXcBas). <br>
 SafeBot is packed with many features, and is updated regularly!
 
 ## Main Features 
 ### Fun and games 
 
 About user and about server command
-- Pulls data from the [Discord API](https://discord.com/developers/docs/reference) to provide information about a specified user or the server the command is used in. This does not provide any private or personal information.
+> Pulls data from the [Discord API](https://discord.com/developers/docs/reference) to provide information about a specified user or the server the command is used in. This does not provide any private or personal information.
 
 Random colour generation
-- Generates a random red, green, and blue value, then converts these values into a hexidecemal code. An image is then generated of the colour with the hex code overlayed.
+> Generates a random red, green, and blue value, then converts these values into a hexidecemal code. An image is then generated of the colour with the hex code overlayed.
 
 Spotify Search
-- Makes use of the [Spotify API](https://developer.spotify.com/documentation/web-api) and a song's JSON information to search for a query provided by a user and returns the top song.
+> Makes use of the [Spotify API](https://developer.spotify.com/documentation/web-api) and a song's JSON information to search for a query provided by a user and returns the top song.
 
 
 ###  Currency and store system 
