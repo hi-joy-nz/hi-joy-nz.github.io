@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: #eeeeee;
+    font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 
 table {
@@ -26,4 +27,7 @@ body {
     background-size: cover;
 }
 
-
+p {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

@@ -15,10 +15,6 @@ body {
     text-decoration: none;
 }
 
-.s_head {
-    size: 24pt;
-    font-style: bold;
-}
 
 .header-anchor {
     visibility: hidden;
