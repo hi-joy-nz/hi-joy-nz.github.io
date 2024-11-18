@@ -4,6 +4,12 @@
 
 # SafeBot Updates
 
+## SafeBot Version 1.1.0-3 Release Notes
+18th of November, 2024 • Joy
+
+### Adjustments
+- Updated the "command on cooldown" message for commands that have a cooldown to now display a live-updating timer with the time until you can use it again.
+
 ## SafeBot Version 1.1.0-2 Release Notes
 17th of November, 2024 • Joy
 
