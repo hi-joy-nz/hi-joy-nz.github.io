@@ -1,5 +1,3 @@
-
-<title>SafeBot | About</title>
 <link href="style.css" rel="stylesheet">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
