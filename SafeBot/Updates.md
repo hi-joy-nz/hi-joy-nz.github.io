@@ -4,6 +4,19 @@
 
 # SafeBot Updates
 
+## SafeBot Version 1.1.0-4 Release Notes
+20th of November, 2024 • Joy
+
+### Adjustments
+- Increased the shiny rates of spawns
+    - Common: 1/450 -> 1/550
+    - Uncommon: 1/400 -> 1/500
+    - Rare: 1/350 -> 1/450
+    - Very rare: 1/250 -> 1/350
+    - Super rare: 1/150 -> 1/250
+    - Legendary and Mythical shiny rates have not changed
+    
+
 ## SafeBot Version 1.1.0-3 Release Notes
 18th of November, 2024 • Joy
 
