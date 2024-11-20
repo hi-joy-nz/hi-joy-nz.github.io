@@ -1,6 +1,5 @@
 <link href="style.css" rel="stylesheet">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<title>SafeBot | Documentation</title>
 
 # 📋 SafeBot Documentation
 Documentation for the SafeBot Discord Bot, a private Discord bot for the [Safe Haven Discord server](https://discord.gg/BcuRXcBasz)
@@ -271,9 +270,10 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 | | Dark Gravestones |
 | | Science Lab |
 | | Myndflike City |
+| | Hitmon Gym |
 | | Snowfield Forest |
-| |Galactic Edge | 
-| |Event |
+| | Galactic Edge | 
+| | Event |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 
@@ -303,9 +303,10 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 | | Dark Gravestones |
 | | Science Lab |
 | | Myndflike City |
+| | Hitmon Gym |
 | | Snowfield Forest |
-| |Galactic Edge | 
-| |Event |
+| | Galactic Edge | 
+| | Event |
 
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
