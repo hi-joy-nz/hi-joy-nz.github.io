@@ -4,7 +4,8 @@
 
 # SafeBot Updates
 
-## SafeBot Version 1.1.0-4 Release Notes
+
+## SafeBot Verison 1.1.1 Release Notes
 20th of November, 2024 • Joy
 
 ### Adjustments
@@ -15,7 +16,39 @@
     - Very rare: 1/250 -> 1/350
     - Super rare: 1/150 -> 1/250
     - Legendary and Mythical shiny rates have not changed
-    
+
+### New "Hitmon Gym" Spawn Area
+- This spawn area has a focus on fighting-type Pokemon, here you can find:
+    - Mankey
+    - Machop
+    - Poliwhirl
+    - Primape
+    - Machoke
+    - Hitmonlee
+    - Hitmonchan
+    - Poliwrath
+    - Machamp (DEBUT!)
+    - Tauros (DEBUT!)
+
+### Spawn changes
+- Exeggutor no longer spawns in the Farfetch'd Fields Spawn Area
+- Beedrill can now be found rarely in the Cloudy Sky Spawn Area
+- Pidgeot can now be found more commonly in the Cloudy Sky Spawn Area
+- (DEBUT!) Dragonite is now a super rare spawn in the Cloudy Sky Spawn Area
+- Ninetales can now be found very rarely in the Dark Gravestones Spawn Area
+- Growlithe, Mankey, Primape, Hitmonlee, and Hitmonchan can no longer be found in the Myndflike City Spawn Area
+- Goldeen can now be commonly found in the Snowfield Forest Spawn Area
+- Staryu can now be found uncommonly in the Snowfield Forest Spawn Area
+- Horsea and Seaking can now rarely be found in the Snowfield Forest Spawn Area
+- Omanyte and Kabuto can now be found very rarely in the Science Lab Spawn Area
+
+### New spawn event
+- Visit the [news page](https://hi-joy-nz.github.io/SafeBot/News) to learn about SafeBot's next spawn event!
+
+### Bug fixes
+- Fixed an issue where if `/spotify_search` couldn't find any results it would send an error.
+- Fixed a typo in Ninetales' name.
+  
 
 ## SafeBot Version 1.1.0-3 Release Notes
 18th of November, 2024 • Joy

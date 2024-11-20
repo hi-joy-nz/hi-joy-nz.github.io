@@ -4,6 +4,41 @@
 
 # SafeBot News
 
+## Spawn Event: The Tales of Tomorrow
+20th of November, 2024 • Joy
+
+### Event overview
+Explore the magical world of psychics, ghosts, and faries!
+
+Duration: November 24th, 2024 until December 4th, 2024
+
+### Event bonuses
+- The chances of finding a shiny Pokemon in the Event Spawn Area are increased by 20%!
+- New Pokemon make their debut!
+- Exotic and rare Pokemon are appearing more commonly!
+
+### Event spawns
+The following Pokemon will be spawning in the Event Spawn Area throughout this event:
+- Abra
+- Slowpoke
+- Gastly
+- Drowzee
+- Clefairy
+- Jigglypuff
+- Staryu
+- Kadabra
+- Haunter
+- Ditto
+- Slowbro (DEBUT!)
+- Hypno
+- Starmie
+- Alakazam (DEBUT!)
+- Gengar
+- Mewtwo
+
+Happy exploring!
+
+
 ## Spawn Event: Fossilised Fortunes
 12th of November, 2024 • Joy
 
