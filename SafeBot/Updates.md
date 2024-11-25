@@ -5,6 +5,25 @@
 # SafeBot Updates
 
 
+## SafeBot Version 1.1.2 Release Notes
+26th of November, 2024 • Joy
+
+### New command: Ask the magic 8ball!
+Usage: `/8ball <question>`
+- Ask the magic 8ball a question and get an answer!
+
+### New spawn type: Marked Pokémon!
+- Marked Pokémon are a new, super rare type of spawn!
+    - Every Pokémon has a 1/1500 chance to be marked.
+    - Marked Pokémon are indicated by a 🎖️ in your collection and in the spawn footer.
+- You can also filter your collection for marked Pokémon.
+
+### Spawn changes
+- Tentacool, Shellder, Squirtle, Tentacruel, and Cloyster no longer spawn at Blue Beach.
+- (DEBUT!) Dragonair can now be found super rarely in the Blue Sea.
+- (DEBUT!) Arbok can now be found near the Dark Gravestones.
+
+
 ## SafeBot Verison 1.1.1 Release Notes
 20th of November, 2024 • Joy
 
@@ -18,7 +37,7 @@
     - Legendary and Mythical shiny rates have not changed
 
 ### New "Hitmon Gym" Spawn Area
-- This spawn area has a focus on fighting-type Pokemon, here you can find:
+- This spawn area has a focus on fighting-type Pokémon, here you can find:
     - Mankey
     - Machop
     - Poliwhirl
@@ -64,14 +83,14 @@
 - Updated the `/store` store.
 
 ### Bug fixes
-- Fixed an issue where typos in the store would cause errors when purchasing specific Pokemon.
+- Fixed an issue where typos in the store would cause errors when purchasing specific Pokémon.
 
 
 ## SafeBot Version 1.1.0-1 Release Notes
 16th of November, 2024 • Joy
 
 ### Bug fixes
-- Fixed an issue where certain legendary and mythical Pokemon wouldn't show in user's collections when using the legendary filter.
+- Fixed an issue where certain legendary and mythical Pokémon wouldn't show in user's collections when using the legendary filter.
 
 
 ## SafeBot Version 1.1.0 Release Notes
@@ -98,7 +117,7 @@
 - Eevee makes its debut as a rare spawn in the Science Lab spawn area
 
 ### Bug fixes
-- Fixed an issue where the legendary/mythical filter wouldn't be usable (`/pokemon_collection`)
+- Fixed an issue where the legendary/mythical filter wouldn't be usable (`/Pokémon_collection`)
 <br>
 
 ## SafeBot Version 1.0.1-1 Release Notes
@@ -108,24 +127,24 @@
 - Starboard message slightly altered.
 
 ### Bug fixes
-- When spawning a Pokemon in the Event Spawn Area, there is no longer a chance you recieve an error message.
+- When spawning a Pokémon in the Event Spawn Area, there is no longer a chance you recieve an error message.
 
 
 ## SafeBot Version 1.0.1 Release Notes
 12th of November, 2024 • Joy
 ### New & updated features
-- Added legendary/mythical filter to `/pokemon_collection`, so that you can filter your collection for your rarest Pokemon!
+- Added legendary/mythical filter to `/Pokémon_collection`, so that you can filter your collection for your rarest Pokémon!
 - Starboard now supports images and will show the *first image attached* to a starboarded message.
 - `/work` will now auto-restart work after you claim it
-- `/pokemon_info` now displays how many of that Pokemon you have caught. Thanks to `@eiranroan` for this suggestion!
+- `/Pokémon_info` now displays how many of that Pokémon you have caught. Thanks to `@eiranroan` for this suggestion!
 
 ### Spawn changes
-- Enabled the Event spawn area: Discover the ancient world with the Fossilised Fortunes event spawns! If you're feeling lucky, shiny Pokemon are more likely to be found in the event area! [Read more about this event](https://hi-joy-nz.github.io/SafeBot/News#spawn-event-fossilised-fortunes).
+- Enabled the Event spawn area: Discover the ancient world with the Fossilised Fortunes event spawns! If you're feeling lucky, shiny Pokémon are more likely to be found in the event area! [Read more about this event](https://hi-joy-nz.github.io/SafeBot/News#spawn-event-fossilised-fortunes).
 - Jigglypuff no longer spawns in the Science Lab area, and Abra is now commonly found there instead!
 
 ### Bug fixes
 - `/work` cooldown is now per-user, and not a global cooldown
-- Other users are no longer able to use the page contol buttons on your `/pokemon_collection`
+- Other users are no longer able to use the page contol buttons on your `/Pokémon_collection`
 - The join "RAWR" will now only be triggered if the server joined is the Safe Haven server.
 
 
