@@ -20,6 +20,7 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 [Coinflip](https://hi-joy-nz.github.io/SafeBot/Docs#coinflip)<br>
 [Random colour](https://hi-joy-nz.github.io/SafeBot/Docs#generate-a-random-colour)<br>
 [Spotify search](https://hi-joy-nz.github.io/SafeBot/Docs#search-for-a-song-on-spotify)<br>
+[Ask the magic 8ball](https://hi-joy-nz.github.io/SafeBot/Docs#ask-the-magic-8ball)<br>
 **<ins>Points</ins>** <br>
 [Balance](https://hi-joy-nz.github.io/SafeBot/Docs#points-balance) <br>
 [Buy](https://hi-joy-nz.github.io/SafeBot/Docs#buy-an-item-from-the-store) <br>
@@ -81,10 +82,25 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)* 
 
 
+## Ask the magic 8ball
+**Version added:** 1.1.2 <br>
+**Description:** Ask the magic 8ball a question.
+
+**Usage:** `/8ball <question>` <br>
+**Permissions required:** None
+
+**Parameters:** <br>
+
+| Name | Description |
+| :------ | :------ |
+| **question** | The question to ask the magic 8ball. |
+
+*[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)* 
+
 
 ## Points balance
 **Version added:** 1.0.0 <br>
-**Description:** Display the points balance of a user or the command user. <br>
+**Description:** Display the points balance of a user or the command user.
 
 **Usage:** `/balance [user]` <br>
 **Permissions required:** None <br>
@@ -224,6 +240,7 @@ Read [SafeBot's news](https://hi-joy-nz.github.io/SafeBot/News)
 | **filter** | (Optional) Filter your collection to display only Pokemon that meet certain criteria. Options: <br> |
 | | **Shiny** - Filter for shiny Pokemon |
 | | **Legendary** - Filter for legendary and mythical Pokemon |
+| | **Marked** - Filter for marked Pokemon |
 
 *[Return to Table of Contents](https://hi-joy-nz.github.io/SafeBot/Docs#-table-of-contents)*
 

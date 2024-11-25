@@ -4,6 +4,15 @@
 
 # SafeBot News
 
+## New Spawn Type: Marked Pokémon
+26th of November, 2024 • Joy
+
+### Feature overview
+- Marked Pokémon are a new, super rare type of spawn!
+    - Every Pokémon has a 1/1500 chance to be marked.
+    - Marked Pokémon are indicated by a 🎖️ in your collection and in the spawn footer.
+    
+
 ## Spawn Event: The Tales of Tomorrow
 20th of November, 2024 • Joy
 
