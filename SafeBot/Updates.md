@@ -1,5 +1,5 @@
 <link href="style.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
 <title>SafeBot | Updates</title>
 
 # SafeBot Updates
