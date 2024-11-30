@@ -6,13 +6,15 @@ body {
 h1, h2, h3, h4, h5, p {
     color: #eeeeee;
     text-align: center;
+}
+
+* {
     font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 
 *:link, *:visited {
     color: #67a0f4;
     text-decoration: none;
-    font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 
 
