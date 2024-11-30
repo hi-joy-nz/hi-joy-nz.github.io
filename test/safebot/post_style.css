@@ -12,6 +12,7 @@ h1, h2, h3, h4, h5, p {
 *:link, *:visited {
     color: #67a0f4;
     text-decoration: none;
+    font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 
 
