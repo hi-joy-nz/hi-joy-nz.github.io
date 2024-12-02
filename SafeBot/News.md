@@ -18,7 +18,7 @@ Duration: December 6th, 2024 until December 16th, 2024
 - Rare Pokemon are spawning more commonly!
 
 ### Event Spawns
-The following Pokemon will be spawning in the Event SPawn Area throughout this event:
+The following Pokemon will be spawning in the Event Spawn Area throughout this event:
 - Eevee
 - Nidorina
 - Nidorina
