@@ -4,6 +4,37 @@
 
 # SafeBot News
 
+## Spawn Event: Eevee's Evolution Expedition
+2nd of December, 2024 • Joy
+
+### Event Overview
+Study and uncover the evolution of Pokemon!
+
+Duration: December 6th, 2024 until December 16th, 2024
+
+### Event bonuses
+- The chances of findign a shiny Pokemon in the Event Spawn Are are increased by 10%!
+- A new Pokemon is making its debut!
+- Rare Pokemon are spawning more commonly!
+
+### Event Spawns
+The following Pokemon will be spawning in the Event SPawn Area throughout this event:
+- Eevee
+- Nidorina
+- Nidorina
+- Butterfree
+- Beedrill
+- Vileplume
+- Golem (DEBUT!)
+- Golbat
+- Primape
+- Gyarados
+- Vaporeon
+- Jolteon
+- Flareon
+
+Happy evolving!
+
 ## New Spawn Type: Marked Pokémon
 26th of November, 2024 • Joy
 
