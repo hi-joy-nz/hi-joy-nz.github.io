@@ -13,7 +13,7 @@ Study and uncover the evolution of Pokemon!
 Duration: December 6th, 2024 until December 16th, 2024
 
 ### Event bonuses
-- The chances of findign a shiny Pokemon in the Event Spawn Are are increased by 10%!
+- The chances of finding a shiny Pokemon in the Event Spawn Are are increased by 10%!
 - A new Pokemon is making its debut!
 - Rare Pokemon are spawning more commonly!
 
