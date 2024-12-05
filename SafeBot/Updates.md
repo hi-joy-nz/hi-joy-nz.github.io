@@ -5,6 +5,43 @@
 # SafeBot Updates
 
 
+## SafeBot Version 1.2.0 Release Notes
+6th of December, 2024 • Joy
+
+### New commands
+List of tone tags
+- Usage `/tonetags`
+- Get a list of common tone tags and their meaning.
+
+Pokémon quests
+- Usage `/pokemon_quests`
+- View quests and claim those you have completed.
+
+### New Pokémon feature: Quests
+Complete quests to earn epic rewards!
+
+- Check your progress on quests and claim any rewards with `/pokemon_quests`
+- Earn rewards, such as points and exclusive Pokémon!
+
+This feature also introduces Lickitung for the first time, which is a quest exclusive Pokémon!
+
+### Adjustments
+- Added the "user type" field to the about user command
+- Changed the "account created" and "joined server" fields in the about user command to show relative times
+- Added the time passed since a user joined the server or created their account in the about user command
+- Added a sticker count and emoji count field to the about server command
+
+### Spawn changes
+- Completely updated what Pokémon spawn in every Spawn Area
+- New Pokémon debuts: Lickitung (quests), Doduo, Dodrio, Golem, Victreebel, and one other..?
+- Check the new spawns with `/pokemon_spawn`!
+
+### Bug fixes
+- Fixed an issue where the display name/nickname field of the about user command would show the user's username instead of their display name if the user didn't have a nickname
+- Fixed an issue where the list of a user's roles was reversed in the about user command
+
+
+
 ## SafeBot Version 1.1.2 Release Notes
 26th of November, 2024 • Joy
 
