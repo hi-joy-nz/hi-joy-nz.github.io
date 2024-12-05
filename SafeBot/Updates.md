@@ -39,6 +39,7 @@ This feature also introduces Lickitung for the first time, which is a quest excl
 ### Bug fixes
 - Fixed an issue where the display name/nickname field of the about user command would show the user's username instead of their display name if the user didn't have a nickname
 - Fixed an issue where the list of a user's roles was reversed in the about user command
+- Fixed typos in Marowak and Raticate's names
 
 
 
