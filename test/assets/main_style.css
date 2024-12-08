@@ -165,13 +165,17 @@ h1, h2, h3, h4, h5, p {
     min-width: 40%;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     .post {
         width: 85%;
     }
 
     .post p {
         width: 80%;
+    }
+
+    .scroll .post {
+        min-width: 90%;
     }
 
 }
