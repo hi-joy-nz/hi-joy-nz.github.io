@@ -97,6 +97,8 @@ h1, h2, h3, h4, h5, p {
 
 .post h3 {
     margin-bottom: -10px;
+    background-color: #3f3f3f;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .post p {
@@ -144,6 +146,23 @@ h1, h2, h3, h4, h5, p {
 
 .post td {
     padding: 5px;
+}
+
+.scroll {
+    display: flex;
+    overflow-x: scroll;
+    width: 85%;
+    margin: auto auto;
+    background-color: #1b1b1b;
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px 10px 10px 10px;
+}
+
+.scroll .post {
+    justify-content: center;
+    height: fit-content;
+    margin: 10px 10px;
+    min-width: 40%;
 }
 
 @media screen and (max-width: 500px) {

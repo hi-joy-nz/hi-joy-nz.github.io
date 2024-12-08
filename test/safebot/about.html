@@ -31,313 +31,149 @@
 
         <h3>About SafeBot</h3>
         
-        <div class="post">
-            <h2>Features</h2>
-            <h5>What SafeBot has to offer</h5>
-            <p>SafeBot has many fun and useful featues, keep reading to learn all about them!</p>
-        </div>
+        <h2>Features</h2>
+        <div class="scroll">
 
-        <br><br>
+            <div class="post">
+                <h2>Pokémon Collecting</h2>
+                <h5>Catch and collect 150+ unique Pokémon!</h5>
+                <p>Different Pokémon spawn in different environments, allowing users to find their favourites!</p>
 
-        <div class="post">
-            <h2>Pokémon Collecting</h2>
-            <h5>Catch and collect 150+ unique Pokémon!</h5>
-            <p>Different Pokémon spawn in different environments, allowing users to find their favourites!</p>
+                <h3>Rarity of Pokémon</h3>
+                <p>Every Pokémon that spawns in a given Spawn Area is given a rarity, which defines the chances of finding that Pokémon. The chances of each rarity spawning are as follows:</p>
+                <table>
+                    <tbody>
+                        <tr></tr>
+                            <th>Common</th>
+                            <th>Uncommon</th>
+                            <th>Rare</th>
+                            <th>Very rare</th>
+                            <th>Super rare</th>
+                            <th>Legendary</th>
+                            <th>Mythical</th>
+                        </tr>
+                        <tr>
+                            <td>50%</td>
+                            <td>20%</td>
+                            <td>15%</td>
+                            <td>8.5%</td>
+                            <td>5.5%</td>
+                            <td>0.9%</td>
+                            <td>0.1%</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p><i>These chances may change during certain events or as part of future updates.</i></p>
 
-            <h3>Rarity of Pokémon</h3>
-            <p>Every Pokémon that spawns in a given Spawn Area is given a rarity, which defines the chances of finding that Pokémon. The chances of each rarity spawning are as follows:</p>
-            <table>
-                <tbody>
-                    <tr></tr>
-                        <th>Common</th>
-                        <th>Uncommon</th>
-                        <th>Rare</th>
-                        <th>Very rare</th>
-                        <th>Super rare</th>
-                        <th>Legendary</th>
-                        <th>Mythical</th>
-                    </tr>
-                    <tr>
-                        <td>50%</td>
-                        <td>20%</td>
-                        <td>15%</td>
-                        <td>8.5%</td>
-                        <td>5.5%</td>
-                        <td>0.9%</td>
-                        <td>0.1%</td>
-                    </tr>
-                </tbody>
-            </table>
-            <p><i>These chances may change during certain events or as part of future updates.</i></p>
+                <h3>Shiny Pokémon</h3>
+                <p>Every Pokémon users encounter can be shiny!</p>
+                <p>The chances of finding a shiny Pokémon vary based on the rarity of the Pokémon.</p>
 
-            <h3>Shiny Pokémon</h3>
-            <p>Every Pokémon users encounter can be shiny!</p>
-            <p>The chances of finding a shiny Pokémon vary based on the rarity of the Pokémon:</p>
-            <table>
-                <tbody>
-                    <tr>
-                        <th>Common</th>
-                        <th>Uncommon</th>
-                        <th>Rare</th>
-                        <th>Very rare</th>
-                        <th>Super rare</th>
-                        <th>Legendary</th>
-                        <th>Mythical</th>
-                    </tr>
-                    <tr>
-                        <td>1/550</td>
-                        <td>1/500</td>
-                        <td>1/450</td>
-                        <td>1/350</td>
-                        <td>1/250</td>
-                        <td>1/20</td>
-                        <td>1/50</td>
-                    </tr>
-                </tbody>
-            </table>
-            <p><i>These rates may change during certain events or as part of future updates.</i></p>
+                <h3>Marked Pokémon</h3>
+                <p>Marked Pokémon are a super-rare form of Pokémon, which can be shown off to friends!</p>
+                <p>Every Pokémon has a 1/1500 chance to be Marked.</p>
 
-            <h3>Marked Pokémon</h3>
-            <p>Every Pokémon has a 1/1500 chance to be Marked.</p>
-            <p>Marked Pokémon are a super-rare form of Pokémon, which can be shown off to friends!</p>
+                <h3>Quests</h3>
+                <p>Quests are difficult tasks that users can complete to earn points, exclusive Pokémon, and more!</p>
 
-            <h3>Spawn Events</h3>
-            <p>There is often an active Spawn Event.</p>
-            <p>Spawn Events are when the Event Spawn Area has a special assortment of Pokémon able to be found.</p>
-            <p>Spawn Events often increase the chances of finding shiny Pokémon, and can make it easier to find rare or new Pokémon!</p>
-            
-            <h3>Commands</h3>
-            <p>These are the commands that relate to the Pokémon spawning feature:</p>
-            <table>
-                <tbody>
-                    <tr>
-                        <th>Command</th>
-                        <th>Parameters</th>
-                        <th>Description</th>
-                        <th>Cooldown</th>
-                    </tr>
-                    <tr>
-                        <td><mono>/pokemon_spawn</mono></td>
-                        <td><mono>area</mono></td>
-                        <td>Spawn a wild Pokémon in a selected area.</td>
-                        <td>2 minutes</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/pokemon_collection</mono>
-                        </td><td><mono>filter</mono></td>
-                        <td>View your Pokémon collection.</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/pokemon_spawns</mono>
-                        </td><td><mono>area</mono></td>
-                        <td>View the Pokémon that spawn in a selected area<br>and their rarity.</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/pokemon_info</mono></td>
-                        <td><mono>number</mono></td>
-                        <td>View details about a Pokémon in your collection</td>
-                        <td>None</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+                <h3>Spawn Events</h3>
+                <p>There is often an active Spawn Event.</p>
+                <p>Spawn Events are when the Event Spawn Area has a special assortment of Pokémon able to be found.</p>
+                <p>Spawn Events often increase the chances of finding shiny Pokémon, and can make it easier to find rare or new Pokémon!</p>
+                
+            </div>
 
-        <br><br>
+            <div class="post">
+                <h2>Economy System</h2>
+                <h5>Earn points and spend them at the store</h5>
 
-        <div class="post">
-            <h2>Economy System</h2>
-            <h5>Earn points and spend them at the store</h5>
+                <h3>Earning Points</h3>
+                <p>Users can earn points through three methods:</p>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th>Method</th>
+                            <th>Points Earned</th>
+                            <th>Description</th>
+                        </tr>
+                        <tr>
+                            <td>Daily points</td>
+                            <td>350</td>
+                            <td>Claim free points every 24 hours</td>
+                        </tr>
+                        <tr>
+                            <td>Working</td>
+                            <td>80-120</td>
+                            <td>Claim points every two hours</td>
+                        </tr>
+                        <tr>
+                            <td>Giveaways</td>
+                            <td>-</td>
+                            <td>Win a points giveaway in the <a href="javascript:func('https://discord.gg/BcuRXcBasz')">Safe Haven Discord server</a></td>
+                        </tr>
+                        <tr>
+                            <td>Quests</td>
+                            <td>-</td>
+                            <td>Complete quests to earn points</td>
+                        </tr>
+                    </tbody>
+                </table>
 
-            <h3>Earning Points</h3>
-            <p>Users can earn points through three methods:</p>
-            <table>
-                <tbody>
-                    <tr>
-                        <th>Method</th>
-                        <th>Points Earned</th>
-                        <th>Description</th>
-                    </tr>
-                    <tr>
-                        <td>Daily points</td>
-                        <td>350</td>
-                        <td>Claim free points every 24 hours</td>
-                    </tr>
-                    <tr>
-                        <td>Working</td>
-                        <td>80-120</td>
-                        <td>Claim points every two hours</td>
-                    </tr>
-                    <tr>
-                        <td>Giveaways</td>
-                        <td>-</td>
-                        <td>Win a points giveaway in the <a href="javascript:func('https://discord.gg/BcuRXcBasz')">Safe Haven Discord server</a></td>
-                    </tr>
-                </tbody>
-            </table>
+                <h3>Spending Points</h3>
+                <p>Users can spend their points in the store.</p>
+                <p>The store contains rare and exclusive Pokémon that you can add to your collection.</p>
 
-            <h3>Spending Points</h3>
-            <p>Users can spend their points in the store.</p>
-            <p>The store contains rare and exclusive Pokémon that you can add to your collection.</p>
+                <h3>Points Balance</h3>
+                <p>Users can check their own balance, or that of another user.</p>
+ 
+            </div>
 
-            <h3>Points Balance</h3>
-            <p>Users can check their own balance, or that of another user.</p>
+            <div class="post">
+                <h2>Fun & Games</h2>
+                <h5>Fun commands to enjoy</h5>
 
-            <h3>Commands</h3>
-            <p>These are the commands that relate to the economy features:</p>
-            <table>
-                <tbody>
-                    <tr>
-                        <th>Command</th>
-                        <th>Parameters</th>
-                        <th>Description</th>
-                        <th>Cooldown</th>
-                    </tr>
-                    <tr>
-                        <td><mono>/daily</mono></td>
-                        <td>None</td>
-                        <td>Claim 350 free points</td>
-                        <td>24 hours</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/work</mono></td>
-                        <td>None</td>
-                        <td>Go to work</td>
-                        <td>2 hours</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/balance</mono></td>
-                        <td><mono>user [optional]</mono></td>
-                        <td>Check the balance of a user or yourself</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/store</mono></td>
-                        <td>None</td>
-                        <td>View the store</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/buy</mono></td>
-                        <td><mono>id</mono></td>
-                        <td>Buy an item from the store</td>
-                        <td>None</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+                <h3>Spotify Search</h3>
+                <p>Searches Spotify's API for the song that best matches a user's search query and provides details about it.</p>
 
-        <br><br>
+                <h3>Random Colour Generation</h3>
+                <p>Generates a random colour.</p>
+                <p>Also generates an image with the colour in order to show users how it looks.</p>
+                <p>Provides RGB and Hex values.</p>
+                
+                <h3>About User</h3>
+                <p>Provides details about a user provided by the Discord API.</p>
+                <p>No personal information is provided.</p>
 
-        <div class="post">
-            <h2>Fun & Games</h2>
-            <h5>Fun commands to enjoy</h5>
+                <h3>About Server</h3>
+                <p>Provides details about the current server provided by the Discord API.</p>
 
-            <h3>Spotify Search</h3>
-            <p>Searches Spotify's API for the song that best matches a user's search query and provides details about it.</p>
+                <h3>Magic 8ball</h3>
+                <p>Ask the magic 8ball a question.</p>
 
-            <h3>Random Colour Generation</h3>
-            <p>Generates a random colour.</p>
-            <p>Also generates an image with the colour in order to show users how it looks.</p>
-            <p>Provides RGB and Hex values.</p>
-            
-            <h3>About User</h3>
-            <p>Provides details about a user provided by the Discord API.</p>
-            <p>No personal information is provided.</p>
+                <h3>Coinflip</h3>
+                <p>Flip a coin, it will land on heads or tails.</p>
+            </div>
 
-            <h3>About Server</h3>
-            <p>Provides details about the current server provided by the Discord API.</p>
+            <div class="post">
+                <h2>Ticketing</h2>
+                <h5>Create private channels to communicate with staff</h5>
 
-            <h3>Magic 8ball</h3>
-            <p>Ask the magic 8ball a question.</p>
+                <h3>Creating the GUI</h3>
+                <p>Users with the <mono>Manage server</mono> permission can create the 'open ticket' GUI.</p>
 
-            <h3>Coinflip</h3>
-            <p>Flip a coin, it will land on heads or tails.</p>
+                <h3>Opening a Ticket</h3>
+                <p>Users can click the "open ticket" button user the 'open ticket' GUI</p>
 
+                <h3>Adding Users to the Ticket</h3>
+                <p>Users can add other users to a ticket.</p>
 
+                <h3>Removing Users from the Ticket</h3>
+                <p>Users with the <mono>Kick users</mono> permission can remove non-staff users from the ticket.</p>
 
-            <h3>Commands</h3>
-            <p>These are the commands that relate to the fun & games features:</p>
-            <table>
-                <tbody>
-                    <tr>
-                        <th>Command</th>
-                        <th>Parameters</th>
-                        <th>Description</th>
-                        <th>Cooldown</th>
-                    </tr>
-                    <tr>
-                        <td><mono>/spotify_search</mono></td>
-                        <td><mono>search</mono></td>
-                        <td>Searches Spotify for the search query.</td>
-                        <td>10 seconds</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/random_colour</mono></td>
-                        <td>None</td>
-                        <td>Generates a random colour.</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/about</mono></td>
-                        <td><mono>user</mono></td>
-                        <td>Provides details about a user.</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/about_server</mono></td>
-                        <td>None</td>
-                        <td>Provides details about the current server.</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/8ball</mono></td>
-                        <td><mono>question</mono></td>
-                        <td>Asks the magic 8ball a question.</td>
-                        <td>None</td>
-                    </tr>
-                    <tr>
-                        <td><mono>/coinflip</mono></td>
-                        <td>None</td>
-                        <td>Flips a coin.</td>
-                        <td>None</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+                <h3>Closing the Ticket</h3>
+                <p>Users can close the ticket via the button at the start of the ticket or by running the close ticket command.</p>
 
-        <br><br>
-
-        <div class="post">
-            <h2>Ticketing</h2>
-            <h5>Create private channels to communicate with staff</h5>
-
-            <h3>Creating the GUI</h3>
-            <p>Users with the <mono>Manage server</mono> permission can create the 'open ticket' GUI.</p>
-
-            <h3>Opening a Ticket</h3>
-            <p>Users can click the "open ticket" button user the 'open ticket' GUI</p>
-
-            <h3>Adding Users to the Ticket</h3>
-            <p>Users can add other users to a ticket.</p>
-
-            <h3>Removing Users from the Ticket</h3>
-            <p>Users with the <mono>Kick users</mono> permission can remove non-staff users from the ticket.</p>
-
-            <h3>Closing the Ticket</h3>
-            <p>Users can close the ticket via the button at the start of the ticket or by running the close ticket command.</p>
-
-            <h3>Commands</h3>
-            <p>These are the commands that relate to the ticketing features:</p>
-            <table>
-                <tbody>
-                    <tr>
-                        <th>Command</th>
-                        <th>Parameters</th>
-                        <th>Description</th>
-                        <th>Cooldown</th>
-                    </tr>
+            </div>
         </div>
     </main>
 </body>
