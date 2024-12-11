@@ -4,6 +4,12 @@
 
 # SafeBot Updates
 
+## SafeBot Version 1.2.0-1 Release Notes
+12th of December, 2024 • Joy
+
+### Bug fixes
+- Fixed an issue where you could not view Mr. Mime with `/pokemon_info`
+- Fixed an issue where `/about` would show the user's username and not display name if the user didn't have a nickname.
 
 ## SafeBot Version 1.2.0 Release Notes
 6th of December, 2024 • Joy
