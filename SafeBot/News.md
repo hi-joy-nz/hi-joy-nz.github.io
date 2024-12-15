@@ -10,7 +10,7 @@
 ### Event Overview 
 Celebrate the holiday season with festive Pokemon!
 
-Duration: December 16th, 2024 until December December 28th, 2024
+Duration: December 16th, 2024 until December 28th, 2024
 
 ### Event Bonuses
 - The chances of fidning a shiny Pokemon in the Event Spawn Area are increased by 20%!
