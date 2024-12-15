@@ -4,6 +4,33 @@
 
 # SafeBot News
 
+## Spawn Event: The Wonders of Winter
+15th of December, 2024 • Joy
+
+### Event Overview 
+Celebrate the holiday season with festive Pokemon!
+
+Duration: December 16th, 2024 until December December 28th, 2024
+
+### Event Bonuses
+- The chances of fidning a shiny Pokemon in the Event Spawn Area are increased by 20%!
+- The chances of finding a Marked Pokemon in all Spawn Areas are increased from 1/1500 to 1/1200!
+- A Pokemon from the Johto Region has come to join the festivities!
+
+### Event Spawns
+The following Pokemon will be spawning in the Event Spawn Area throughout this event:
+- Seel
+- Shellder
+- Staryu
+- Delibird
+- Dewgong
+- Cloyster
+- Lapras
+- Jynx
+- Articuno
+
+Happy holidays!
+
 ## Spawn Event: Eevee's Evolution Expedition
 2nd of December, 2024 • Joy
 
@@ -13,7 +40,7 @@ Study and uncover the evolution of Pokemon!
 Duration: December 6th, 2024 until December 16th, 2024
 
 ### Event bonuses
-- The chances of finding a shiny Pokemon in the Event Spawn Are are increased by 10%!
+- The chances of finding a shiny Pokemon in the Event Spawn Area are increased by 10%!
 - A new Pokemon is making its debut!
 - Rare Pokemon are spawning more commonly!
 
