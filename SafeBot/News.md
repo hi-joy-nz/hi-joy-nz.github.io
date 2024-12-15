@@ -22,7 +22,7 @@ The following Pokemon will be spawning in the Event Spawn Area throughout this e
 - Seel
 - Shellder
 - Staryu
-- Delibird
+- Delibird (DEBUT!)
 - Dewgong
 - Cloyster
 - Lapras
