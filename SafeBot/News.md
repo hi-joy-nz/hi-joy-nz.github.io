@@ -19,6 +19,7 @@ Duration: December 16th, 2024 until December 28th, 2024
 
 ### Event Spawns
 The following Pokemon will be spawning in the Event Spawn Area throughout this event:
+- Meowth
 - Seel
 - Shellder
 - Staryu
