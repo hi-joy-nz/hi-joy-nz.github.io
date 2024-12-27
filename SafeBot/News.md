@@ -10,7 +10,7 @@
 ### Event Overview
 More Pokemon from the Johto region are here!
 
-Join us to celebrate over 15 Pokemon making their debut!
+Join us to celebrate over 40 Pokemon making their debut!
 
 Duration: December 30th, 2024 until January 10th, 2025
 
