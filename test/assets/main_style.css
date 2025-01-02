@@ -165,6 +165,24 @@ h1, h2, h3, h4, h5, p {
     min-width: 40%;
 }
 
+.invitebutton {
+    background-color: #4954cb;
+    border-radius: 10px;
+    border-color: #a2a8eb;
+    border-style:solid;
+    border-width: 2px;
+    color: #eeeeee;
+    width: 20%;
+    height: 50px;
+    font-size: 20px;
+    margin: auto;
+}
+
+.invitebutton a {
+    color: #eeeeee;
+}
+
+
 @media screen and (max-width: 600px) {
     .post {
         width: 85%;
@@ -176,5 +194,9 @@ h1, h2, h3, h4, h5, p {
 
     .scroll .post {
         min-width: 90%;
+    }
+
+    .invitebutton {
+        width: 40%;
     }
 }
