@@ -74,11 +74,12 @@ h1, h2, h3, h4, h5, p {
     background-color: #454545;
     padding: 20px;
     height: auto;
-    width: 55%;
+    width: 65%;
     border: 2px #eeeeee;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    margin-bottom: 30px;
 }
 
 
@@ -111,6 +112,7 @@ h1, h2, h3, h4, h5, p {
     background-color: #383838;
     border-radius: 5px;
     padding: 2px 2px 1px 2px;
+    font-weight: 650;
 }
 
 .post table {
@@ -182,8 +184,22 @@ h1, h2, h3, h4, h5, p {
     color: #eeeeee;
 }
 
+.links {
+    margin: auto;
+    width: 45%;
+    text-align: center;
+}
 
-@media screen and (max-width: 600px) {
+.links p:first-of-type {
+    margin-top: -8px;
+}
+
+.links img {
+    padding: 10px;
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 700px) {
     .post {
         width: 85%;
     }
@@ -194,9 +210,5 @@ h1, h2, h3, h4, h5, p {
 
     .scroll .post {
         min-width: 90%;
-    }
-
-    .invitebutton {
-        width: 40%;
     }
 }
