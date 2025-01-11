@@ -277,4 +277,8 @@ h1, h2, h3, h4, h5, p {
     .dexpost .post {
         width: 85%;
     }
+
+    .formcontainer {
+        width: 85%;
+    }
 }
