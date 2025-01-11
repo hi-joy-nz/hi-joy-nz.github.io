@@ -240,6 +240,7 @@ h1, h2, h3, h4, h5, p {
     border-radius: 5px;
     color: #eeeeee;
     width: 95%;
+    margin-bottom: 5px;
 }
 
 .formcontainer label {
@@ -253,6 +254,12 @@ h1, h2, h3, h4, h5, p {
     padding: 10px;
     margin-bottom: 15px;
 }
+
+.formcontainer input:hover {
+    transition: background-color 0.15s ease-in-out;
+    background-color: #181818;
+}
+
 
 @media screen and (max-width: 700px) {
     .post {
