@@ -216,6 +216,7 @@ h1, h2, h3, h4, h5, p {
     vertical-align: middle;
     display: inline-block;
     margin-bottom: 15px;
+    width: 7%;
 }
 
 .dexpost .post h2{
@@ -290,9 +291,5 @@ h1, h2, h3, h4, h5, p {
 
     .invitebutton {
         width: 60%
-    }
-
-    .dexpost .post img {
-        width: 45%;
     }
 }
