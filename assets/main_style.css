@@ -267,7 +267,6 @@ h1, h2, h3, h4, h5, p {
     background-color: #181818;
 }
 
-
 @media screen and (max-width: 700px) {
     .post {
         width: 85%;
@@ -291,5 +290,9 @@ h1, h2, h3, h4, h5, p {
 
     .invitebutton {
         width: 60%
+    }
+
+    .dexpost .post img {
+        width: 45%;
     }
 }
