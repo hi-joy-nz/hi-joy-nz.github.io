@@ -184,6 +184,7 @@ h1, h2, h3, h4, h5, p {
     font-size: 20px;
     margin: auto;
     padding: 5px;
+    margin-bottom: 15px;
 }
 
 .invitebutton a {
