@@ -313,5 +313,6 @@ h1, h2, h3, h4, h5, p {
 
     .smallinvitebutton {
         width: 30%;
+        font-size: 14px;
     }
 }
