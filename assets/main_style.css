@@ -186,6 +186,7 @@ h1, h2, h3, h4, h5, p {
     padding: 5px;
     margin-bottom: 15px;
     vertical-align: middle;
+    transition: 0.1s ease-in-out;
 }
 
 .invitebutton a, .smallinvitebutton a {
@@ -207,6 +208,13 @@ h1, h2, h3, h4, h5, p {
     margin-bottom: 15px;
     vertical-align: middle;
     overflow-x: hidden;
+    transition: 0.1s ease-in-out;
+}
+
+.invitebutton:hover, .smallinvitebutton:hover {
+    scale: 105%;
+    background-color: #3d46ad;
+    transition: 0.1s ease-in-out;
 }
 
 .links {
