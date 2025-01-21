@@ -294,7 +294,67 @@ h1, h2, h3, h4, h5, p {
     background-color: #181818;
 }
 
-@media screen and (max-width: 700px) {
+.aboutcontainer .post {
+    width: 40%;
+}
+
+.aboutcontainer .post .header img {
+    border-radius: 50%;
+    text-align: left;
+    vertical-align: top;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+}
+
+.aboutcontainer .post .header {
+    background-color: #3f3f3f;
+    border-radius: 10px;
+    display: flex;
+}
+
+.aboutcontainer .post .header-box {
+    display: inline-block;
+    margin-left: 10px;
+    padding-top: 15px;
+}
+
+.aboutcontainer .post .header-box h1{
+    margin: 0;
+    text-align: left;
+}
+
+.aboutcontainer .post .header-box p{
+    margin: 0;
+    text-align: left;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.aboutcontainer .post .aboutlinks {
+    padding-top: 10px;
+}
+
+.aboutcontainer .post .aboutlink {
+    display: inline-block;
+    background-color: #3f3f3f;
+    width: 65px;
+    height: 65px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.post .aboutlink {
+    align-content: center;
+}
+
+.post .aboutlink img {
+    width: 75%;
+}
+
+
+@media screen and (max-width: 800px) {
     .post {
         width: 85%;
     }
@@ -309,6 +369,10 @@ h1, h2, h3, h4, h5, p {
 
     .dexpost .post {
         width: 85%;
+    }
+
+    .aboutcontainer .post {
+        width: 80%;
     }
 
     .formcontainer {
