@@ -345,13 +345,21 @@ h1, h2, h3, h4, h5, p {
     vertical-align: middle;
 }
 
-.post .aboutlink {
+.aboutlink {
     align-content: center;
     margin: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
 }
 
-.post .aboutlink img {
+.aboutlink img {
     width: 75%;
+    align-self: center;
+}
+
+.aboutlink a {
+    align-self: center;
 }
 
 
