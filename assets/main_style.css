@@ -355,11 +355,12 @@ h1, h2, h3, h4, h5, p {
 
 .aboutlink img {
     width: 75%;
-    align-self: center;
+    margin: auto;
 }
 
 .aboutlink a {
     align-self: center;
+    display: flex;
 }
 
 
