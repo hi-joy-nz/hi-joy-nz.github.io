@@ -328,10 +328,11 @@ h1, h2, h3, h4, h5, p {
     text-align: left;
     display: inline-block;
     margin-left: 30px;
+    width: fit-content;
 }
 
 .aboutcontainer .post .aboutlinks {
-    padding-top: 10px;
+    margin-top: 7px;
 }
 
 .aboutcontainer .post .aboutlink {
@@ -340,9 +341,13 @@ h1, h2, h3, h4, h5, p {
     width: 65px;
     height: 65px;
     border-radius: 10px;
-    margin: auto;
+    margin: auto auto 6px 6px;
     text-align: center;
     vertical-align: middle;
+}
+
+.aboutcontainer .post .aboutlink:first-of-type {
+    margin-left: 0px;
 }
 
 .aboutlink {
