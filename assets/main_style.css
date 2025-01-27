@@ -187,6 +187,7 @@ h1, h2, h3, h4, h5, p {
     margin-bottom: 15px;
     vertical-align: middle;
     transition: 0.1s ease-in-out;
+    cursor: pointer;
 }
 
 .invitebutton a, .smallinvitebutton a {
@@ -209,6 +210,7 @@ h1, h2, h3, h4, h5, p {
     vertical-align: middle;
     overflow-x: hidden;
     transition: 0.1s ease-in-out;
+    cursor: pointer;
 }
 
 .invitebutton:hover, .smallinvitebutton:hover {
